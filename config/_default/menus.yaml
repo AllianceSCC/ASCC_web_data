@@ -5,26 +5,26 @@
 
 main:
   - identifier: "writing"
-    name: Writing
+    name: Communication
     url: ''
     weight: 10
-  - name: "Services"
+  - name: "Writing Services"
     url: "/writing_services/"
     parent: "writing"
     weight: 20
-  - name: "Webinars"
+  - name: "SciComm Webinars"
     url: "/webinars/"
     parent: "writing"
     weight: 35
-  - name: "Professional Development"
+  - name: "Science Writing Labs"
     url: "/better_writing/"
     parent: "writing"
     weight: 50
-  - name: "Tips"
+  - name: "Writing & Editing Tips"
     url: "/post/"
     parent: "writing"
     weight: 60
-  - name: "Resources"
+  - name: "Communication Resources"
     url: "/writing_resources/"
     parent: "writing"
     weight: 65
