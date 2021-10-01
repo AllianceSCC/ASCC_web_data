@@ -7,27 +7,40 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 55
 
-title: Skills
+title: Available Services
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
+- description: Ensure clear, concise writing with developmental and line edits. [Submit your draft](https://docs.google.com/forms/d/e/1FAIpQLSdoj5QbHZk3iYhxSnj5PtyJyEoHn882cL-WA45Sp-wBIoB4Aw/viewform?usp=sf_link)
+  icon: edit
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Editing
+- description: "Feedback for content and layout on practice talks, slides, and posters. [Schedule your presentation practice and consult](https://calendly.com/alliance_scc/presentation-practice-and-feedback)"
+  icon: file-powerpoint
   icon_pack: fas
-  name: Photography
+  name: Presentation Feedback
+- description: _Pro bono_ editing and feedback services for eligible women, HURM trainees. <a href='for_hurm' >Learn more here.</a>
+  icon: balance-scale-left
+  icon_pack: fas
+  name: Trainee Support
+- description: Get scientific writing professional development with one-on-one coaching. Great for trainees and ESL writers. <a href='better_writing' >Learn more here.</a>
+  icon: chalkboard-teacher
+  icon_pack: fas
+  name: Science Communication
+- description: Writing and SciComm topics from scientific narrative to writing a review paper. <a href='webinars' >Learn more here.</a>
+  icon: tools
+  icon_pack: fas
+  name: Professional Development Workshops
+- description: Inclusive research design and communication, integrating anti-racism and inclusion into your research, etc. <a href='inclusion' >Learn more here.</a>
+  icon: users
+  icon_pack: fas
+  name: DEI Consulting
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

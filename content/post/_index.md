@@ -1,6 +1,5 @@
 ---
-title: Posts
-cms_exclude: true
+title: Scientific Writing and Editing Tips
 
 # View.
 #   1 = List
@@ -8,8 +7,37 @@ cms_exclude: true
 #   3 = Card
 view: 2
 
-# Optional header image (relative to `static/media/` folder).
+# Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
   image: ""
+  
+content:
+  # Page type to display. E.g. post, talk, publication...
+  page_type: post
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 0
+  # Filter on criteria
+  filter_button:
+  - name: All
+    tag: '*'
+  - name: Writing Process
+    tag: Process
+  - name: Lit Research
+    tag: Research
+  - name: Outlines
+    tag: Outline
+  - name: Narrative Structure
+    tag: Narrative
+  - name: Revising
+    tag: Revising
+  - name: Science Stories
+    tag: Science Stories
+  # Choose how many pages you would like to offset by
+  offset: 0
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
 ---
+***
+[Get Writing Tips](https://view.flodesk.com/pages/5eb9574431cbee002611e094) delivered straight to your inbox.
+***

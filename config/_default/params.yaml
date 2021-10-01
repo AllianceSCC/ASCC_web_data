@@ -5,55 +5,51 @@
 
 # Appearance
 
-theme: minimal
+theme: ASCC_theme
 day_night: true
-font: ''
+font: 'ASCC_font_set'
 font_size: L
 
 # SEO
 
-site_type: Person
-local_business_type: ''
+site_type: LocalBusiness
+local_business_type: 'ProfessionalService'
 org_name: ''
-description: ''
-twitter: ''
+description: 'Alliance SciComm & Consulting’s vision is to Make Science Accessible. Both as a concept and a career. We providing consulting services that make academic communication and environments more accessible to all audiences including writing and editing services, communication professional development, and data analysis to identify and address institutional barriers in STEM.'
+twitter: 'Alliance_SCC'
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: admin@AllianceSCC.com
+phone: +1 810 266 0591
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 215 South Main St., 755
+  city: Linden
+  region: MI
+  postcode: '48451'
   country: United States
   country_code: US
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: ''
+  longitude: ''
+directions: 
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  - 'Flexible'
+  - ''
+appointment_url: 'https://calendly.com/alliance_scc/free-consult'
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
+    name: DM Us
+    link: 'https://twitter.com/Alliance_SCC'
+  - icon: facebook
     icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
+    name: Message Us
+    link: 'https://facebook.com/AllianceSCC'
+  - icon: linkedin
     icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: Follow Us
+    link: 'https://linkedin.com/company/alliancescc'
 
 # Site header
 
@@ -145,9 +141,9 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
+  google_analytics: 'G-ZXE3JQEDSY'
   google_tag_manager: ''
-  google_site_verification: ''
+  google_site_verification: 'tSj_8G0zjq093_cdn0ylR5Mpd_c69fuP_ghT8_NEqBE'
   baidu_site_verification: ''
   baidu_tongji: ''
 cms:

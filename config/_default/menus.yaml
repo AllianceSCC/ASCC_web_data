@@ -4,25 +4,51 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: '#about'
+  - identifier: "writing"
+    name: Writing
+    url: ''
     weight: 10
-  - name: Posts
-    url: '#posts'
+  - name: "Services"
+    url: "/writing_services/"
+    parent: "writing"
     weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
-  - name: Publications
-    url: '#featured'
+  - name: "Webinars"
+    url: "/webinars/"
+    parent: "writing"
+    weight: 35
+  - name: "Professional Development"
+    url: "/better_writing/"
+    parent: "writing"
     weight: 50
+  - name: "Tips"
+    url: "/post/"
+    parent: "writing"
+    weight: 60
+  - name: "Resources"
+    url: "/writing_resources/"
+    parent: "writing"
+    weight: 65
+    
+  - identifier: "DEI"
+    name: Equity & Inclusion
+    url: 'inclusion'
+    weight: 80
+  - name: "Services"
+    url: "/inclusion/"
+    parent: "DEI"
+    weight: 90
+  - name: "Webinars"
+    url: "/inclusion_webinars/"
+    parent: "DEI"
+    weight: 100
+  - name: "Resources"
+    url: "/inclusion_resources/"
+    parent: "DEI"
+    weight: 110
+    
   - name: Contact
     url: '#contact'
-    weight: 60
-
+    weight: 120
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
 #  - name: CV

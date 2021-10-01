@@ -1,0 +1,22 @@
+# Theme metadata
+name = "ASCC_theme"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#d40055" #goldenrod
+
+# Menu
+menu_primary = "#fff" #white
+menu_text = "#d4aa00" #goldenrod
+menu_text_active = "#d40055" #pink
+menu_title = "#d4aa00" #goldenrod
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)" #white
+home_section_even = "rgb(212,170,0)" #goldenrod
+
+[dark]
+  link = "#bbdefb"
+  link_hover = "#bbdefb"

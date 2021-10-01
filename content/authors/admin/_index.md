@@ -1,39 +1,36 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Ada K. Hagan, Ph.D.
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Owner, Lead Consultant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: 
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a microbiologist with a passion for making science accessible. I hope to use my background in communications and higher education to help make scientific concepts more easily understood and make the academy more inclusive to future scientists from all backgrounds.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Science Communication
+- Data Visualization
+- Equity & Inclusion
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Microbiology & Immunology
+    institution: University of Michigan
+    year: 2018
+  - course: MS in Microbiology
+    institution: East Tennessee State University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,19 +39,20 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/adahagan
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=NF41slgAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/akhagan
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://linkedin/in/adahagan
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -67,11 +65,15 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi there & welcome to Alliance SciComm & Consulting, LLC!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm Dr. Ada Hagan, a microbiologist with a passion for making science accessible. I'm using my strong backgrounds in science communication and higher education to help make scientific concepts more easily understood _and_ make the academy more inclusive to future scientists from all backgrounds.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+As a first-generation PhD, I get that navigating the academy is complicated and that academic english is its own language. I also know that the process is more important than the details that you can always google and that there isn't a one-size-fits-all approach to writing. That's why I focus on a writer's strengths to personalize their _process_ of scientific writing into one that will last a lifetime.
+
+In addition to science writing labs, I offer manuscript and grant writing and editing, writing-related webinars, and more. I also provide [pro bono services]({{< ref "for_hurm/" >}}) to women trainees who belong to traditionally marginalized groups.
+
+My writing and research have been featured by [BBC Radio 4](https://www.bbc.co.uk/programmes/m000qjgn), [Science Careers](https://www.sciencemag.org/careers/2019/11/departmental-seminar-speakers-should-better-reflect-trainee-diversity), [The Scientist](https://www.the-scientist.com/news-opinion/qa--myth-debunkers-take-aim-at-microbiology-lore-66036), [Massive Science](https://massivesci.com/articles/cephalopods-are-forcing-us-to-rethink-what-it-means-to-be-colorblind/), and the [American Society for Microbiology](https://www.asm.org/Biographies/Ada-Hagan).
