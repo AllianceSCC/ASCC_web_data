@@ -25,7 +25,7 @@ design:
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-  url: better_writing
+  url: science-writing-labs
   label: Learn more
   icon_pack: far
   icon: edit

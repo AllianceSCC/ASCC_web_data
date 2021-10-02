@@ -17,7 +17,7 @@ main:
     parent: "writing"
     weight: 35
   - name: "Science Writing Labs"
-    url: "/better_writing/"
+    url: "/science-writing-labs/"
     parent: "writing"
     weight: 50
   - name: "Writing & Editing Tips"

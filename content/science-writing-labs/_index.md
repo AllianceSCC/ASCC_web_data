@@ -1,5 +1,5 @@
 ---
-title: Writing Professional Development
+title: Science Writing Labs
 
 
 # Optional header image (relative to `static/media/` folder).
@@ -8,7 +8,8 @@ header:
   image: ""
 ---
 
-{{< figure src="asc2_flyer_lght.png" >}}
+Science Writing Labs are process-oriented and strengths-focused professional development programs for early writers and peer reviewers. Right now, I'm offering a special discount of 20%. Keep scrolling to learn how you and your trainees could benefit. {{< swl_form_20 ff-6157d077c71e8685f183b6c7 >}}
+
 
 ## FAQs
 
