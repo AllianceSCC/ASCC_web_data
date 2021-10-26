@@ -4,7 +4,7 @@ widget: hero  # See https://sourcethemes.com/academic/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 50  # Order that this section will appear.
 
-title: Better Writing. Within Reach.
+title: Science Writing Labs
 
 # Hero image (optional). Enter filename of an image in the `assets/media` folder.
 hero_media: "full_logo.png"
@@ -39,4 +39,4 @@ cta_note:
   label: '<a href="writing_services" > I am interested in another type of writing help.<!-- V --></a>'
 ---
 
-Now available from ASCC. Writing professional development with one-on-one coaching.
+One-on-one and Peer Feedback. For professional development in writing.

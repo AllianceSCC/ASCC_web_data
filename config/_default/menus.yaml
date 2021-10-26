@@ -4,47 +4,84 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - identifier: "writing"
-    name: Communication
+  - identifier: "home"
+    name: Home
     url: ''
+    weight: 5
+  - name: "About Dr. Hagan"
+    url: "#about"
+    parent: "home"
     weight: 10
-  - name: "Writing Services"
-    url: "/writing_services/"
-    parent: "writing"
+  - name: "About ASCC"
+    url: "#demo"
+    parent: "home"
+    weight: 15
+  - name: "Available Services"
+    url: "#services"
+    parent: "home"
     weight: 20
-  - name: "SciComm Webinars"
-    url: "/webinars/"
-    parent: "writing"
+  - name: "Writing/Editing Tips"
+    url: "#posts"
+    parent: "home"
+    weight: 25
+  - name: "ASCC Projects"
+    url: "#projects"
+    parent: "home"
+    weight: 30
+  - name: "Explore Tags"
+    url: "#tags"
+    parent: "home"
     weight: 35
+  - name: "Contact"
+    url: "#contact"
+    parent: "home"
+    weight: 40
+
+  - identifier: "services"
+    name: Services
+    url: ''
+    weight: 50
   - name: "Science Writing Labs"
     url: "/science-writing-labs/"
-    parent: "writing"
-    weight: 50
+    parent: "services"
+    weight: 55
+  - name: "Writing & Editing"
+    url: "/writing_services/"
+    parent: "services"
+    weight: 55
+  - name: "SciComm Webinars"
+    url: "/webinars/"
+    parent: "services"
+    weight: 65
+  - name: "DEI Consulting"
+    url: "/inclusion/"
+    parent: "services"
+    weight: 70
+  - name: "DEI Webinars"
+    url: "/inclusion_webinars/"
+    parent: "services"
+    weight: 75
+    
+  - identifier: "resources"
+    name: Resources
+    url: ''
+    weight: 80
+  - name: "Neutral Language Thesaurus"
+    url: "/neutral-language-thesaurus/"
+    parent: "resources"
+    weight: 85
   - name: "Writing & Editing Tips"
     url: "/post/"
-    parent: "writing"
-    weight: 60
+    parent: "resources"
+    weight: 90
   - name: "Communication Resources"
     url: "/writing_resources/"
-    parent: "writing"
-    weight: 65
-    
-  - identifier: "DEI"
-    name: Equity & Inclusion
-    url: 'inclusion'
-    weight: 80
-  - name: "Services"
-    url: "/inclusion/"
-    parent: "DEI"
-    weight: 90
-  - name: "Webinars"
-    url: "/inclusion_webinars/"
-    parent: "DEI"
-    weight: 100
-  - name: "Resources"
+    parent: "resources"
+    weight: 95
+  - name: "DEI Resources"
     url: "/inclusion_resources/"
-    parent: "DEI"
-    weight: 110
+    parent: "resources"
+    weight: 100
     
   - name: Contact
     url: '#contact'

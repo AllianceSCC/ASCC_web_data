@@ -62,7 +62,7 @@ Recent [publications]({{< ref "publication/" >}}) and [projects]({{< ref "projec
 
 ## Accreditations
 
-{{< figure src="https://seal-easternmichigan.bbb.org/seals/gray-seal-120-61-bbb-90041124.png" target="_blank" rel="nofollow"  href="https://www.bbb.org/us/mi/linden/profile/technical-writing/alliance-scicomm-consulting-llc-0332-90041124/#sealclick" alt="Alliance SciComm & Consulting, LLC BBB Business Review" >}} 
+{{< bbb_seal >}} 
 
 ## Clients
 
