@@ -96,17 +96,17 @@ Right now, I'm offering a special discount of 20%. Keep scrolling to claim your 
       
   $500 per one-on-one lab.
   
-  $1500 per peer feedback lab ($500 per trainee).
+  \$1500 per peer feedback lab ($500 per trainee).
   </details>    
     
   <details>
       <summary><b>How do I pay for this service?</b></summary>
-
-  - Graduate students and post-docs can check with their departments and/or respective university offices for professional development grants or similar funds. 
   
   - Many grants and fellowships available to graduate students, postdocs, and early-career researchers include specific funds for professional development and/or consider professional development to be an allowable expense.
   
   - Ask your PI or mentor to sponsor your professional development. There is an extra option (for $100) available to mentors that want to participate directly in their trainee's professional development.
   
   - Ask your department or school to [host]({{< ref "webinars/" >}}) an ASCC writing workshop or interactive webinar.
+  
+  - Learn more and get more ideas for finding funding in the blog post "[How to Get Scientific Writing Editing & Consulting Paid For]({{< ref "post/pay-for-academic-editing" >}})"
   </details>

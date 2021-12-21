@@ -10,60 +10,60 @@ header:
 
 {{% toc %}}
 
-# A
+### A
 
 - **Addicted:** love, 
 - **Afflicted with:** patient of
 
-# B
+### B
 
 - **Biological (wo/man, fe/male, sex):** assigned male/female at birth, assigned sex at birth, raised as a boy/girl
 - **Blind:** limited vision, low vision, partially sighted, visually impaired; spot - awareness gap
 - **Born (wo/man, fe/male, sex):** assigned male/female at birth, assigned sex at birth, raised as a boy/girl
 
-# C
+### C
 
 - **Craftmanship:** artisanship
 - **Crazy:** wild, confusing, unpredictable, impulsive, reckless, fearless, lives on the edge, thrill-seeker, risk-taker, out of control, bizarre, wild, restless, intense overwhelming, sensational, unbelievable, absurd, ridiculous, confusing
 - **Crippled:** impeded, frozen, stopped
 
-# D
+### D
 
 - **Deranged:** wild, confusing, unpredictable, impulsive, reckless, fearless, lives on the edge, thrill-seeker, risk-taker, out of control, bizarre, wild, restless, intense overwhelming, sensational, unbelievable, absurd, ridiculous, confusing
 - **Disorder/defect:** (Genetic) condition
 - **Disseminate:** publicize, distribute, circulate, communicate    
 
-# E
+### E
 
 
-# F
+### F
 
 {{% toc %}}
 
-# G
+### G
 
 - **Gender identity disorder:** Gender dysphoria
 - **Gender non-binary:** Non-binary
 
-# H
+### H
 
 - **His/Her:** Their
 
-# I
+### I
 
 - **Identify/Identifies:** In reference to gender, ethnicity -- use is/are
 
-# J
+### J
 
 
-# K
+### K
 
 
-# L
+### L
 
 {{% toc %}}
 
-# M
+### M
 
 - **Man-hours:** Labor hours
 - **Man-made:** Manufactured
@@ -72,57 +72,58 @@ header:
 - **Manned:** Crewed, staffed
 - **Men and Women:** People
 
-# N
+### N
 
 
-# O
+### O
 
 - **One:** Their
 - **Opposite sex:** Different sex
 
-# P
+### P
 
 - **Paralyzed:** impeded, frozen, stopped
 - **Promiscuous:** (cytokines/ligands) multifunctional, versatile, cross-functional
 
-# Q
+### Q
 
 
-# R
+### R
 
 {{% toc %}}
 
-# S
+### S
 
 - **Seminal:** influential, formative, groundbreaking, innovative
 - **Sex change/reassignment:** transition, gender-affirming care, transition-related care
+- **Sexy:** intriguing, fascinating, fashionable, trendy
 - **Stricken:** patient of
 - **Strong:** robust evidence, hardy specimen, tenacious candidate, secure system, stricter assumptions
 - **Suffers:** patient of
 
-# T
+### T
 
 - **Transgendered:** Transgender
 - **Tribe:** Group, crew, cricle, squad, community
 
-# U
+### U
 
 
-# V
+### V
 
 - **Victim:** patient
 
-# W
+### W
 
 - **Wheelchair-bound:** Wheelchair user
 
-# X
+### X
 
 
-# Y
+### Y
 
 
-# Z
+### Z
 
 {{% toc %}}
 
