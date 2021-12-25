@@ -2,6 +2,7 @@
 title: Writing Resources
 
 ---
+{{< popup_form 61c280aed2fc90968d6f48e4 >}}
 
 ### Resources for Writing Developed by ASCC
 

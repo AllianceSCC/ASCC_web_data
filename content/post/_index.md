@@ -1,5 +1,5 @@
 ---
-title: Scientific Writing and Editing Tips
+title: Scientific Writing & Editing Tips
 
 # View.
 #   1 = List
@@ -38,6 +38,8 @@ content:
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 ---
+{{< popup_form 61c280aed2fc90968d6f48e4 >}}
+
 ***
 [Get Writing Tips](https://view.flodesk.com/pages/5eb9574431cbee002611e094) delivered straight to your inbox.
 ***
