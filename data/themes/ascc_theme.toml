@@ -14,8 +14,8 @@ menu_text_active = "#d40055" #pink
 menu_title = "#d4aa00" #goldenrod
 
 # Home sections
-home_section_odd = "rgb(255, 255, 255)" #white
-home_section_even = "rgb(212,170,0)" #goldenrod
+#home_section_odd = "rgb(212,170,0)" #goldenrod
+#home_section_even = "rgb(255, 255, 255)" #white
 
 [dark]
   link = "#bbdefb"

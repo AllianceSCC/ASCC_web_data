@@ -29,6 +29,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+{{< popup_form 61c280aed2fc90968d6f48e4 >}}
 
 The writing process consists of several steps: prewriting, drafting, revising, editing, and publication. The [outline]({{< relref "post/why_outline" >}}) is generated during the prewriting stage and, while necessary to describe the broad structure of an article, it is rarely revisited. 
 

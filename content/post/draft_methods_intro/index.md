@@ -31,6 +31,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+{{< popup_form 61c280aed2fc90968d6f48e4 >}}
 
 Probably one of the most frustrating parts of the scientific writing process is actually getting words to paper, aka “the first draft”. 
 

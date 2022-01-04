@@ -32,6 +32,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+{{< popup_form 61c280aed2fc90968d6f48e4 >}}
 
 The scientific writing process can be summarized in five steps: prewriting, drafting, revising, editing, and finally… publication. It seems straightforward, but also... overwhelming. Especially when you’re tasked with starting at the beginning.
 

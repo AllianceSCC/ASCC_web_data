@@ -20,7 +20,7 @@ header:
 
 **Need help with a problem not listed?** Let us know! We are equipped to tackle most higher ed projects that require data analysis, multicultural competency, and/or communications expertise.
 
-### [Schedule a FREE 30 min consultation](https://calendly.com/alliance_scc/free-consult)
+{{< cta cta_text="Schedule a FREE needs assessment" cta_link="https://calendly.com/alliance_scc/free-consult" cta_new_tab="true" >}}
 
 ***
 

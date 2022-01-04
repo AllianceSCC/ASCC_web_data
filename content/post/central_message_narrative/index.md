@@ -34,6 +34,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+{{< popup_form 61c280aed2fc90968d6f48e4 >}}
 
 Deciding what to write about is generally pretty easy for a researcher. Here’s my research topic. Read. Take notes. Write the manuscript. But approaching the prewriting and drafting stages of the writing process that way can waste precious time and energy, so here are a couple of things you can do to focus your prewriting. 
 

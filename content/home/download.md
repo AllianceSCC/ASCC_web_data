@@ -2,22 +2,20 @@
 # Hero widget
 widget: hero  # See https://sourcethemes.com/academic/docs/page-builder/
 headless: true  # This file represents a page section.
-weight: 50  # Order that this section will appear.
+weight: 6  # Order that this section will appear.
 
-title: Science Writing Labs
+title: Free Ebook
 
 # Hero image (optional). Enter filename of an image in the `assets/media` folder.
-hero_media: "full_logo.png"
+hero_media: ""
 
 design:
   background:
-    color: 'white'
-  spacing:
-    padding: ["10px", "0", "10px", "0"]
+    image: 'download_images/five_methods_background_half.png'
   
   # Background gradient.
-  #gradient_start:
-  #gradient_end:
+  #gradient_start: ""
+  # gradient_end: ""
   
 
   # Text color (true=light or false=dark).
@@ -27,10 +25,10 @@ design:
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-  url: science-writing-labs
-  label: Learn more
-  icon_pack: far
-  icon: edit
+  url: science-writing-ebook
+  label: Get it
+  icon_pack: fas
+  icon: cloud-download-alt
   
 #[cta_alt]
 #  url = "writing_services"
@@ -38,7 +36,7 @@ cta:
 
 # Note. An optional note to show underneath the links.
 cta_note:
-  label: '<a href="writing_services" > I am interested in another type of writing help.<!-- V --></a>'
+  label: ''
 ---
 
-One-on-one and Peer Feedback. For professional development in writing.
+Tips to help guide your writing journey.

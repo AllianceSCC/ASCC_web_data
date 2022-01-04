@@ -12,6 +12,10 @@ weight: 30
 title: Scientific Writing and Editing Tips
 subtitle:
 
+design:
+  spacing:  
+    padding: ["5px", "0", "5px", "0"]
+
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: post

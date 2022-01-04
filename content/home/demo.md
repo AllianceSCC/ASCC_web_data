@@ -16,17 +16,11 @@ subtitle = ""
   columns = "2"
 
 [design.background]
+  color = '#d4aa00'
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
-
-  # Background color.
-  # color = "navy"
-  
-  # Background gradient.
-  #gradient_start = "DarkGreen"
-  #gradient_end = "ForestGreen"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
@@ -40,7 +34,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["10px", "0", "10px", "0"]
 
 [advanced]
  # Custom CSS. 

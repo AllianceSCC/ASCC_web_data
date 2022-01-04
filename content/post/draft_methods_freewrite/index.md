@@ -29,6 +29,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+{{< popup_form 61c280aed2fc90968d6f48e4 >}}
 
 Despite the importance of pre-writing [warm ups]({{< relref "post/draft_methods_warm_up" >}}), we can’t always make it happen. Perhaps we were too preoccupied with another problem to focus during the warm up period. Or maybe a meeting ran over and we had to rush between tasks, skipping the warm up altogether. 
 

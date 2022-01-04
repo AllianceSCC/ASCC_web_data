@@ -12,6 +12,12 @@ weight: 60
 title: Writing & Project Portfolio
 subtitle: ''
 
+design:
+  background:
+    color: 'white'
+  spacing:  
+    padding: ["5px", "0", "5px", "0"]
+
 content:
   # Page type to display. E.g. project.
   page_type: project

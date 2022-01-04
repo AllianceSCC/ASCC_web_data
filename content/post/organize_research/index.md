@@ -30,6 +30,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+{{< popup_form 61c280aed2fc90968d6f48e4 >}}
 
 In the course of a literature review, you may come across hundreds of research papers that will contribute to your understanding of the field and possibly even be cited in a manuscript. So how do you keep track of these sources?
 

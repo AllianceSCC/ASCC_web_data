@@ -41,5 +41,4 @@ content:
 {{< popup_form 61c280aed2fc90968d6f48e4 >}}
 
 ***
-[Get Writing Tips](https://view.flodesk.com/pages/5eb9574431cbee002611e094) delivered straight to your inbox.
-***
+{{< cta cta_text="Get Writing Tips Delivered" cta_link="https://view.flodesk.com/pages/5eb9574431cbee002611e094/" cta_new_tab="true" >}}

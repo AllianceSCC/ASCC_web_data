@@ -1,24 +1,16 @@
 ---
-title: Science Writing Labs
+widget: blank
+headless: true
+title: FAQs
 
-
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
+weight: 40
+design:
+  columns: '2'
+  background: 
+    color: "#d4aa00"
+  spacing:
+    padding: ["10px", "0", "10px", "0"]
 ---
-
-### Science Writing Labs are process-oriented and strengths-focused professional development programs for early writers and peer reviewers. 
-
-Right now, I'm offering a special discount of 20%. Keep scrolling to claim your discount and learn more about how academic faculty and trainees can benefit from Science Writing Labs.
-
-***
-
-{{< swl_form_20 6157d049f88d548e68f5bd63 >}}
-
-***
-
-# **FAQs**
 
   <details>
       <summary><b>How does it work?</b></summary>
@@ -39,20 +31,6 @@ Right now, I'm offering a special discount of 20%. Keep scrolling to claim your 
   
   1. Session #4 -- Review post-assessment and decide next steps.
   </details>
-
-  <details><summary><b>What's the difference between the "one-on-one" and "peer feedback" labs?</b></summary>
-  
-  **One-on-One** Labs focus on the writing skills and techniques of ONE trainee.
-  
-  **Peer Feedback** Labs are groups of _three_ trainees that work together with a single facilitator. These labs focus on the type of feedback necessary during each stage of writing and participants recieve feedback on their feedback from the facilitator.
-  </details>
-  
-  <details><summary><b>How is the one-on-one lab different from using an editor?</b></summary>
-    
-  [Editorial services]({{< ref "writing_services/" >}}) focus on the details of a single document and what can be done to improve it. 
-  
-  The Science Writing Labs focus on YOU and your writing skills such as methods for tackling a new writing project or revisions. The writing project that you provide helps target the professional development to meet your needs and gives you an opportunity to practice what you learn.
-  </details>
   
   <details>
       <summary><b>What would I learn during a one-on-one lab?</b></summary>
@@ -68,21 +46,6 @@ Right now, I'm offering a special discount of 20%. Keep scrolling to claim your 
   - approaches to revising and/or editing,
   
   - how to make your science more approachable.
-  </details>
-
-
-  <details>
-      <summary><b>What does a lab include?</b></summary>
-
-  Each lab includes one month of professional development in four virtual sessions that are accompanied by:
-  
-   - a personalized development plan, 
-    
-   - relevant writing resources,
-    
-   - in-progress reviews with written feedback, and
-    
-   - pre- and post-assessments.
   </details>
     
   <details>

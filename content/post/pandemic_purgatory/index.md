@@ -31,6 +31,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+{{< popup_form 61c280aed2fc90968d6f48e4 >}}
 
   At the end of January, one month before Michigan responded to the pandemic by closing non-essential services, I pulled my 3-year-old from daycare. I was (and still am) attempting to launch a business, but our back up funds had run dry and we could no longer afford childcare. As it happened, I got an early taste of the pandemic dilemma that millions have faced since. 
   

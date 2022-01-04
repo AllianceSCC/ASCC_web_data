@@ -4,13 +4,19 @@
 widget: tag_cloud
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
 weight: 65
 
 title: Explore ASCC
 subtitle: ''
+
+design:
+  background:
+    color: '#d4aa00'
+  spacing:  
+    padding: ["10px", "0", "10px", "0"]
 
 content:
 # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)

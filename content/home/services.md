@@ -12,6 +12,12 @@ weight: 55
 title: Available Services
 subtitle:
 
+design:
+  background:
+    color: '#d4aa00'
+  spacing:  
+    padding: ["5px", "0", "5px", "0"]
+
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons

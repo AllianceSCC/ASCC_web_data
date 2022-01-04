@@ -32,6 +32,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+{{< popup_form 61c280aed2fc90968d6f48e4 >}}
 
 The next step in the prewriting process is the outline, but what is it and why should you make one?
 

@@ -9,6 +9,12 @@ active: true
 # This file represents a page section.
 headless: true
 
+design:
+  background:
+    color: '#d4aa00'
+  spacing:  
+    padding: ["10px", "0", "10px", "0"]
+
 # Order that this section appears on the page.
 weight: 10
 

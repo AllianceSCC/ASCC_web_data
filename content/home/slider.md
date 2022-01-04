@@ -19,7 +19,7 @@ item:
   - title:
     content: "'[Dr. Hagan's] editing skills are unmatched. She is meticulous and thorough, often providing background citations and/or explanations for suggested changes or additions. I truly believe that having my work edited by Dr. Hagan has helped to make me an even better writer!' - Erica B."
     align: center  # Choose `center`, `left`, or `right`.
-    overlay_color: #d40055
+    overlay_color: "#d40055"
     
   - title:
     content: "'Under [Dr. Hagan's] mentorship, I learned how to more effectively conduct analyses [in R], produce reproducible code, and better utilize version control tools such as GitHub. Ada also often made several resources tailored to women of color, LGBTQ+, and Black students more accessible to me, and encouraged me to utilize them.' - Mia G."
@@ -32,7 +32,7 @@ item:
     overlay_color: "#d4aa00" 
     
   - title:
-    content: "'Our [exhibit design] team was having difficulty conveying complex and disjointed scientific information that was accessible to the general public. Dr. Hagan's impact on the exhibit design and direction was immediate. She took these scientific findings and turned them into a concise, fun, and compelling story. I would definitely work with Dr. Hagan again!' - Anthony V."
+    content: "'Our [exhibit design] team was having difficulty conveying complex and disjointed scientific information. Dr. Hagan's impact on the exhibit design and direction was immediate. She took these scientific findings and turned them into a concise, fun, and compelling story. I would definitely work with Dr. Hagan again!' - Anthony V."
     align: center
     overlay_color: "#000000" 
 ---

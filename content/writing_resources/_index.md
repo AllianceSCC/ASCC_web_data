@@ -8,6 +8,8 @@ title: Writing Resources
 
 #### Media:
 
+* [Writing eBooks & Webinars]({{< ref "science-writing-ebook" >}})
+
 * [Writing Tips Blog]({{< ref "post/" >}})
 
 * [Twitter](http://twitter.com/alliance_scc)

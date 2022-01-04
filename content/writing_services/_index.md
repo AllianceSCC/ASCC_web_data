@@ -7,6 +7,7 @@ header:
   caption: ""
   image: ""
 ---
+
 {{< popup_form 61c280aed2fc90968d6f48e4 >}}
 
 ## Support for: Writing 
@@ -15,17 +16,15 @@ header:
 
 ### Professional Development:
 
-* One-on-one writing coaching --- Get help demystifying the writing process to get that first draft faster and/or a better second draft. Writing coaching with ASCC includes four, one-hour sessions, a personalized coaching plan, and pre- and post-assessments to track your growth. [Learn more...]({{< ref "science-writing-labs/" >}}).
+One-on-one writing coaching --- Get help demystifying the writing process to get that first draft faster and/or a better second draft. Writing coaching with ASCC includes four, one-hour sessions, a personalized coaching plan, and pre- and post-assessments to track your growth. [Learn more...]({{< relref "science-writing-labs" >}}).
 
 ### Structure/Content Revision:		
 Early in the writing/brainstorming process and need help with deciding what should be included, the organization of an early draft, or can't _quite_ put your finger on what's missing? Structure and content revisions come in at the beginning of your writing process. We can help you brainstorm or outline that early draft before it exists and then suggest revisions to your writing to identify missing information or help with the overall organization. **Use content and structure revising to ensure concise writing with all the information your readers need, and nothing they don't.**
 
-[Submit your draft](https://docs.google.com/forms/d/e/1FAIpQLSc0SKufJRaveDXbXMeuHIoXzYM10D0QW5p53-EifIy70o3UAg/viewform?usp=sf_link) for revision.
-
 ### Line Editing:		
 In the late stages of writing and need fresh eyes to check for grammar and typos? Line editing gets you a fresh pair of eyes to make sure that each paragraph looks, and reads, its best. **Use editing to drop your word count and catch those mistakes that will distract the reader from your writing.**
 
-[Submit your draft](https://docs.google.com/forms/d/e/1FAIpQLSdoj5QbHZk3iYhxSnj5PtyJyEoHn882cL-WA45Sp-wBIoB4Aw/viewform?usp=sf_link) for edit
+{{< cta cta_text="Submit your draft" cta_link="https://docs.google.com/forms/d/e/1FAIpQLSdoj5QbHZk3iYhxSnj5PtyJyEoHn882cL-WA45Sp-wBIoB4Aw/viewform?usp=sf_link" cta_new_tab="true" >}}
 
 ***
 
@@ -38,7 +37,7 @@ In the late stages of writing and need fresh eyes to check for grammar and typos
 
 * Talks --- Need a practice audience prepared to give meaningful feedback on your upcoming presentation or job talk? We will watch your presentation and provide feedback on everything from substance to style.
 
-### [Schedule your presentation practice and consult](https://calendly.com/alliance_scc/presentation-practice-and-feedback)
+{{< cta cta_text="Schedule your practice" cta_link="https://calendly.com/alliance_scc/presentation-practice-and-feedback" cta_new_tab="true" >}}
 
 ***
 
@@ -47,8 +46,7 @@ In the late stages of writing and need fresh eyes to check for grammar and typos
 
 * Reproducible data analysis --- Need help analyzing that data and/or making the right graphics? Let us help by creating an easy to use and repeatable method of cleaning and visualizing your data.
 
-
-### [Schedule a FREE 30 min consultation](https://calendly.com/alliance_scc/free-consult)
+{{< cta cta_text="Schedule a FREE needs assessment" cta_link="https://calendly.com/alliance_scc/free-consult" cta_new_tab="true" >}}
 
 ***
 

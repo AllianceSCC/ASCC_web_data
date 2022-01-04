@@ -15,4 +15,4 @@ header:
 
 All webinar participants must adhere to our {{% staticref "uploads/Webinar_Code_of_Conduct.pdf" %}}Webinar Code of Conduct{{% /staticref %}}
 
-### [Schedule a FREE 30 min consultation](https://calendly.com/alliance_scc/free-consult)
+{{< cta cta_text="Schedule a FREE needs assessment" cta_link="https://calendly.com/alliance_scc/free-consult" cta_new_tab="true" >}}
