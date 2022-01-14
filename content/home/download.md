@@ -11,7 +11,7 @@ hero_media: ""
 
 design:
   background:
-    image: 'download_images/five_methods_background_half.png'
+    image: 'download_images/five_methods_background_half-2.png'
   
   # Background gradient.
   #gradient_start: ""

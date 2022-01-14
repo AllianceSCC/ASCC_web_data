@@ -5,9 +5,8 @@ title: ""
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
-  image: ""
+  image: "download_images/methods_background_cover.png"
 ---
-{{< figure src="five_methods_ebook_image.png" lightbox="true" >}}
 
 ***
 

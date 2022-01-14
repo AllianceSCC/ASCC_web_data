@@ -48,7 +48,7 @@ main:
   - name: "Writing & Editing"
     url: "/writing_services/"
     parent: "services"
-    weight: 55
+    weight: 60
   - name: "SciComm Webinars"
     url: "/webinars/"
     parent: "services"

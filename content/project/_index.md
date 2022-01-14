@@ -14,7 +14,7 @@ header:
 ---
 {{< popup_form 61c280aed2fc90968d6f48e4 >}}
 
-{{< figure src="HERC_review.png" >}}
+{{< figure src= "HERC_review.png" >}}
 
 ***
 A collection of blogs, projects, and examples of commissioned work.
