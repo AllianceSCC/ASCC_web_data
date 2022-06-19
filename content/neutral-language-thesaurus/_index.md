@@ -32,7 +32,7 @@ header:
 
 - **Deranged:** wild, confusing, unpredictable, impulsive, reckless, fearless, lives on the edge, thrill-seeker, risk-taker, out of control, bizarre, wild, restless, intense overwhelming, sensational, unbelievable, absurd, ridiculous, confusing
 - **Disorder/defect:** (Genetic) condition
-- **Disseminate:** publicize, distribute, circulate, communicate    
+- **Disseminate:** publicize, distribute, circulate, communicate
 
 ### E
 
@@ -101,11 +101,12 @@ header:
 - **Stricken:** patient of
 - **Strong:** robust evidence, hardy specimen, tenacious candidate, secure system, stricter assumptions
 - **Suffers:** patient of
+- **Suicide:** (inhibitors) irreversable; (neutrophils) 
 
 ### T
 
 - **Transgendered:** Transgender
-- **Tribe:** Group, crew, cricle, squad, community
+- **Tribe:** Group, crew, circle, squad, community
 
 ### U
 

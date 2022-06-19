@@ -5,150 +5,104 @@
 
 # Appearance
 
-theme: ASCC_theme
-day_night: true
-font: 'ASCC_font_set'
-font_size: L
+appearance:
+  theme_day: ASCC_theme
+  theme_night: ASCC_theme
+  font: ASCC_font_set
+  font_size: L
 
 # SEO
 
-site_type: LocalBusiness
-local_business_type: 'ProfessionalService'
-org_name: ''
-description: 'Alliance SciComm & Consulting’s vision is to Make Science Accessible. Both as a concept and a career. We providing consulting services that make academic communication and environments more accessible to all audiences including writing and editing services, communication professional development, and data analysis to identify and address institutional barriers in STEM.'
-twitter: 'Alliance_SCC'
-
-# Contact (edit or remove options as required)
-
-email: admin@AllianceSCC.com
-phone: +1 810 266 0591
-address:
-  street: 215 South Main St., #755
-  city: Linden
-  region: MI
-  postcode: '48451'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: ''
-  longitude: ''
-directions: 
-office_hours:
-  - 'Flexible'
-  - ''
-appointment_url: 'https://calendly.com/alliance_scc/free-consult'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Us
-    link: 'https://twitter.com/Alliance_SCC'
-  - icon: facebook
-    icon_pack: fab
-    name: Message Us
-    link: 'https://facebook.com/AllianceSCC'
-  - icon: linkedin
-    icon_pack: fab
-    name: Follow Us
-    link: 'https://linkedin.com/company/alliancescc'
+marketing:
+  seo:
+    site_type: LocalBusiness
+    local_business_type: 'ProfessionalService'
+    org_name: ''
+    description: 'Alliance SciComm & Consulting’s vision is to Make Science Accessible. Both as a concept and a career. We providing consulting services that make academic communication and environments more accessible to all audiences including writing and editing services, communication professional development, and data analysis to identify and address institutional barriers in STEM.'
+    twitter: 'Alliance_SCC'
+  analytics:
+    google_analytics: 'G-ZXE3JQEDSY'
+    baidu_tongji: ''
+  verification:
+    google: 'tSj_8G0zjq093_cdn0ylR5Mpd_c69fuP_ghT8_NEqBE'
+    baidu: ''
 
 # Site header
 
-main_menu:
-  enable: true
-  align: l
-  show_logo: true
-  show_language: false
-  show_day_night: true
-  show_search: true
-  highlight_active_link: true
+header:
+  navbar:
+    enable: true
+    align: l
+    show_logo: true
+    show_language: false
+    show_day_night: true
+    show_search: true
+    highlight_active_link: true
+
+# Site footer
+
+footer:
+  copyright:
+    notice: ' &copy; {year} Alliance SciComm & Consulting, LLC. Licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
 
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
-address_format: en-us
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+  address_format: en-us
 
 # Site features
 
-highlight: true
-highlight_languages:
-  - r
-math: false
-diagram: false
-privacy_pack: false
-edit_page:
-  repo_url: ''
-  content_dir: ''
-  repo_branch: main
-  editable:
-    page: false
-    post: false
-    book: false
-show_related:
-  book: true
-  page: false
-  post: true
-  project: true
-  publication: true
-  event: true
-reading_time: true
-section_pager: false
-docs_section_pager: true
-sharing: true
-copyright_license:
-  enable: false
-  allow_derivatives: false
-  share_alike: true
-  allow_commercial: false
-  notice: 'This work is licensed under {license}'
-abstract_length: 135
-plugins_js: []
-avatar:
-  gravatar: false
-  shape: circle
-publications:
-  date_format: January 2006
-  citation_style: apa
-projects:
-  post_view: 2
-  publication_view: 2
-  talk_view: 2
-breadcrumb:
-  page_types:
-    book: true
-comments:
-  provider: ''
-  commentable:
-    post: true
-    book: true
-    project: true
-    publication: true
-    event: true
-  disqus:
-    shortname: ''
-    show_count: true
-  commento:
+features:
+  syntax_highlighter:
+    enable: true
+    extra_languages:
+      - r
+      - latex
+  math:
+    enable: false
+  privacy_pack:
+    enable: false
+  repository:
     url: ''
-search:
-  provider: wowchemy
-  algolia:
-    app_id: ''
+    content_dir: content
+    branch: master
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: ''
     api_key: ''
-    index_name: ''
-    show_logo: false
-map:
-  provider: ''
-  api_key: ''
-  zoom: 15
-marketing:
-  google_analytics: 'G-ZXE3JQEDSY'
-  google_tag_manager: ''
-  google_site_verification: 'tSj_8G0zjq093_cdn0ylR5Mpd_c69fuP_ghT8_NEqBE'
-  baidu_site_verification: ''
-  baidu_tongji: ''
-cms:
-  branch: master
-  local_backend: false
-icon:
-  pack:
-    ai: true
+    zoom: 15
+
+# Extensions
+
+extensions:
+  cms:
+    branch: master
+    local_backend: false
+  isotope:
+    # Enable if you use the Portfolio widget or Publication filter
+    enable: true
+  academicons:
+    enable: true

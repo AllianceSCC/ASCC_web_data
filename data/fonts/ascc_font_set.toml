@@ -2,7 +2,7 @@
 name = "ASCC_font_set"
 
 # Optional Google font URL
-google_fonts = "Crimson+Text|Roboto:400,400italic,700|Roboto+Mono"
+google_fonts = "family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Roboto+Mono&family=Roboto:ital,wght@0,400;0,500;1,400;1,500"
 
 # Font families
 heading_font = "Crimson Text"
