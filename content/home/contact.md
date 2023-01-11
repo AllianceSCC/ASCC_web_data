@@ -16,13 +16,13 @@ content:
   autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+#  form:
+#    provider: netlify
+#    formspree:
+#      id:
+#    netlify:
+#      # Enable CAPTCHA challenge to reduce spam?
+#      captcha: false
 
   # Contact details (edit or remove options as required)
   email: admin@AllianceSCC.com
@@ -44,15 +44,15 @@ content:
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: DM Us
+      name: DM Alliance
       link: 'https://twitter.com/Alliance_SCC'
     - icon: facebook
       icon_pack: fab
-      name: Message Us
+      name: Message Alliance
       link: 'https://facebook.com/AllianceSCC'
     - icon: linkedin
       icon_pack: fab
-      name: Follow Us
+      name: Follow Alliance
       link: 'https://linkedin.com/company/alliancescc'
 
 design:

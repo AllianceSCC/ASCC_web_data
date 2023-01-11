@@ -25,7 +25,7 @@ feature:
 - description: Ensure clear, concise writing with developmental and line edits. [Submit your draft](https://docs.google.com/forms/d/e/1FAIpQLSdoj5QbHZk3iYhxSnj5PtyJyEoHn882cL-WA45Sp-wBIoB4Aw/viewform?usp=sf_link)
   icon: edit
   icon_pack: fas
-  name: Editing
+  name: Edits & Revisions
 - description: "Feedback for content and layout on practice talks, slides, and posters. [Schedule your presentation practice and consult](https://calendly.com/alliance_scc/presentation-practice-and-feedback)"
   icon: file-powerpoint
   icon_pack: fas
@@ -42,10 +42,10 @@ feature:
   icon: tools
   icon_pack: fas
   name: Professional Development Workshops
-- description: Inclusive research design and communication, integrating anti-racism and inclusion into your research, etc. <a href='inclusion' >Learn more here.</a>
-  icon: users
-  icon_pack: fas
-  name: DEI Consulting
+- description: Need help but don't see exactly what you need? [Book a FREE consultation](https://calendly.com/alliance_scc/free-consult)!
+  icon: circle-question
+  icon_pack: fa
+  name: Don't See Something?
 
 
 # Uncomment to use emoji icons.

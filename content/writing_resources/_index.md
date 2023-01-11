@@ -1,20 +1,27 @@
 ---
-title: Writing Resources
+title: ASCC's Writing-related Resources
 
+share: true
 ---
 {{< popup_form 61c280aed2fc90968d6f48e4 >}}
 
-### Resources for Writing Developed by ASCC
+### Media:
 
-#### Media:
+* [eBooks]({{< ref "science-writing-ebook" >}})
 
-* [Writing eBooks & Webinars]({{< ref "science-writing-ebook" >}})
+* [OnDemand Webinars]({{< ref "webinars" >}})
 
-* [Writing Tips Blog]({{< ref "post/" >}})
+* [Writing & Editing Tips]({{< ref "post/" >}})
 
-* [Twitter](http://twitter.com/alliance_scc)
+* [The Neutral Language Thesaurus]({{< ref "neutral-language-thesaurus" >}})
 
-#### Writing References:
+### Paying for Our Services:
+
+* [Funding Options]({{< ref "post/pay-for-academic-editing" >}})
+
+* [For HURM/GNC Trainees]({{< ref "for_HURM" >}})
+
+### Cheatsheets:
 * {{% staticref "uploads/PI_feedback_guide.pdf" %}}Facilitating trainee writing (For PIs){{% /staticref %}}
 
 
@@ -24,7 +31,7 @@ title: Writing Resources
 * {{% staticref "uploads/Paragraph_structure.pdf" %}}Paragraphs: The building blocks of papers{{% /staticref %}}
 
 
-#### Worksheets:
+### Worksheets:
 * {{% staticref "uploads/Choosing_your_review_topic.pdf" %}}Choosing a review paper topic{{% /staticref %}}
 
 

@@ -6,6 +6,8 @@ title: ""
 header:
   caption: ""
   image: "download_images/methods_background_cover.png"
+  
+share: true
 ---
 
 ***

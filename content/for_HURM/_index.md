@@ -8,6 +8,8 @@ type:
 header:
   caption: ""
   image: ""
+  
+share: true
 ---
 {{< popup_form 61c280aed2fc90968d6f48e4 >}}
 

@@ -20,7 +20,7 @@ bio: I am a microbiologist with a passion for making science accessible. I hope 
 interests:
 - Science Communication
 - Data Visualization
-- Equity & Inclusion
+- Equity & Inclusion in STEM
 
 # Education to show in About widget
 education:
@@ -52,7 +52,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://linkedin/in/adahagan
-
+- icon: globe
+  icon_pack: fa
+  link: http://www.akhagan.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 

@@ -11,7 +11,7 @@ design:
     padding: ["10px", "0", "10px", "0"]
 ---
 
-Labs include one month of professional development in four virtual sessions that are accompanied by:
+Labs include four virtual professional development sessions that are accompanied by:
   
    - a personalized development plan, 
     

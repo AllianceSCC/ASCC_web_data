@@ -28,7 +28,7 @@ main:
     url: "#projects"
     parent: "home"
     weight: 30
-  - name: "Explore Tags"
+  - name: "Explore Topics"
     url: "#tags"
     parent: "home"
     weight: 35
@@ -44,44 +44,32 @@ main:
   - name: "Science Writing Labs"
     url: "/science-writing-labs/"
     parent: "services"
-    weight: 55
-  - name: "Writing & Editing"
+    weight: 60
+  - name: "All SciComm Services"
     url: "/writing_services/"
     parent: "services"
-    weight: 60
-  - name: "SciComm Webinars"
+    weight: 55
+  - name: "Webinars & Workshops"
     url: "/webinars/"
     parent: "services"
     weight: 65
-  - name: "DEI Consulting"
-    url: "/inclusion/"
-    parent: "services"
-    weight: 70
-  - name: "DEI Webinars"
-    url: "/inclusion_webinars/"
-    parent: "services"
-    weight: 75
     
   - identifier: "resources"
     name: Resources
     url: ''
     weight: 80
+  - name: "All Writing Resources"
+    url: "/writing_resources/"
+    parent: "resources"
+    weight: 85
   - name: "Neutral Language Thesaurus"
     url: "/neutral-language-thesaurus/"
     parent: "resources"
-    weight: 85
+    weight: 90
   - name: "Writing & Editing Tips"
     url: "/post/"
     parent: "resources"
-    weight: 90
-  - name: "Communication Resources"
-    url: "/writing_resources/"
-    parent: "resources"
-    weight: 95
-  - name: "DEI Resources"
-    url: "/inclusion_resources/"
-    parent: "resources"
-    weight: 100
+    weight: 87
     
   - name: Contact
     url: '#contact'

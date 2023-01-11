@@ -15,9 +15,7 @@ design:
   <details>
       <summary><b>How does it work?</b></summary>
 
-  1. [Register here](https://forms.gle/Xq9o2YJMi1ZMTAVy9).
-  
-  1. You'll recieve an email to schedule our four sessions.
+  1. [Register here](https://calendly.com/d/dqs-c4q-p3v).
   
   1. Submit your writing project.
   

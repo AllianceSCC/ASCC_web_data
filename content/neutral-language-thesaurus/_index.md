@@ -1,13 +1,18 @@
 ---
 title: An Academic Neutral Language Thesaurus
 
-
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
   image: ""
+  
+share: true
 ---
 {{< popup_form 61c280aed2fc90968d6f48e4 >}}
+
+Some words are outdated, others just don't fit. Here's an ever-growing list of words to help write inclusive (and accurate!) academic work. 
+
+To get started, look for the word or phrase you want to _replace_. Don't see it? [Let us know!]({{< ref "../#contact" >}}) 
 
 {{% toc %}}
 
@@ -39,7 +44,6 @@ header:
 
 ### F
 
-{{% toc %}}
 
 ### G
 
@@ -62,7 +66,6 @@ header:
 
 ### L
 
-{{% toc %}}
 
 ### M
 
@@ -91,7 +94,6 @@ header:
 
 ### R
 
-{{% toc %}}
 
 ### S
 
@@ -127,12 +129,10 @@ header:
 
 ### Z
 
-{{% toc %}}
-
 # Don't see what you need?
 [Contact us]({{< ref "../#contact" >}}) to get suggestions and have us include it in our neutral language thesaurus. Be sure to provide the context!
 
-# Resources
+# Related Resources
 
 - Trans Journalists Association, Style Guide: https://transjournalists.org/style-guide/
 - National Center on Disability and Journalism, Disability Language Style Guide: https://ncdj.org/style-guide/
@@ -140,3 +140,5 @@ header:
 - Linguistic Society of America, Guidelines for Inclusive Language: https://www.linguisticsociety.org/resource/guidelines-inclusive-language
 - Autistic HOYA, Ableism/Language: https://www.autistichoya.com/p/ableist-words-and-terms-to-avoid.html
 - The National Association of Hispanic Journalists (NAHJ), Cultural Competence Handbook: https://nahj.org/wp-content/uploads/2020/08/NAHJ-Cultural-Competence-Handbook.pdf
+
+{{% toc %}}

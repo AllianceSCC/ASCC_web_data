@@ -28,7 +28,7 @@ design:
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-  url: https://forms.gle/Xq9o2YJMi1ZMTAVy9
+  url: https://calendly.com/d/dqs-c4q-p3v
   label: REGISTER
   icon_pack: fas
   icon: file-signature

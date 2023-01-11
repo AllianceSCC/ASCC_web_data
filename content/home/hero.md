@@ -7,7 +7,7 @@ weight: 50  # Order that this section will appear.
 title: Science Writing Labs
 
 # Hero image (optional). Enter filename of an image in the `assets/media` folder.
-hero_media: "full_logo.png"
+hero_media: "ASCC-atom-logo-negative.png"
 
 design:
   background:
