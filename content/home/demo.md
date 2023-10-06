@@ -54,10 +54,6 @@ Alliance SciComm & Consulting, LLC was founded in 2019 by Dr. Ada Hagan, a micro
 Recent [publications]({{< ref "publication/" >}}) and [projects]({{< ref "project/" >}}).
 
 
-## Accreditations
-
-{{< bbb_seal >}} 
-
 ## Clients
 
-{{< figure src="logos_compiled.png" lightbox="true">}}
+{{< figure src="logos_compiled.png" lightbox="true" alt="Logos for the Black Microbiologists Association, the University of Michigan Museum of Natural History, the University of Michigan Office of Graduate and Postdoctoral Studies, and the Higher Education Recruitment Consortium.">}}

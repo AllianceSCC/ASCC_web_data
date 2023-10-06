@@ -20,8 +20,8 @@ If you are a woman, think you may belong to a marginalized group, and need help 
 
 Tip: Complete the form **when you are ready** to submit your draft for editing.
 
-[Open Eligibility Form in new tab](https://docs.google.com/forms/d/e/1FAIpQLSeUoS1gvwR--5BmdjWkmQLFac4THX21KXTJLZ26RosvhGRQ2Q/viewform?usp=sf_link)
+[Open Eligibility Form in new tab](https://www.honeybook.com/widget/alliance_sci_comm_consulting_llc_254619/cf_id/648a8502db0d85002ca01de5)
 
 
-<iframe src=https://docs.google.com/forms/d/e/1FAIpQLSeUoS1gvwR--5BmdjWkmQLFac4THX21KXTJLZ26RosvhGRQ2Q/viewform?embedded=true" width="640" height="1200" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+{{< honeybook_inline 6 >}}
 

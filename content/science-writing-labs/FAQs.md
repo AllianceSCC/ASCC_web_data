@@ -15,7 +15,9 @@ design:
   <details>
       <summary><b>How does it work?</b></summary>
 
-  1. [Register here](https://calendly.com/d/dqs-c4q-p3v).
+  1. [Register here](https://www.honeybook.com/widget/alliance_sci_comm_consulting_llc_254619/cf_id/6463e171f0aad30d32114a82).
+  
+  1. Discuss your goals in a 30-minute pre-Lab consult.
   
   1. Submit your writing project.
   

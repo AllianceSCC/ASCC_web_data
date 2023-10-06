@@ -17,4 +17,3 @@ Process-oriented and strengths-focused professional development programs for ear
 
   **Peer Feedback** Labs are groups of _three_ trainees that work together with a single facilitator. These labs focus on the type of feedback that should be provided during each stage of writing, and participants recieve feedback on their feedback from the facilitator.
   
-  {{< swl_cal_routing_form dqs-c4q-p3v >}}

@@ -22,11 +22,11 @@ design:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Ensure clear, concise writing with developmental and line edits. [Submit your draft](https://docs.google.com/forms/d/e/1FAIpQLSdoj5QbHZk3iYhxSnj5PtyJyEoHn882cL-WA45Sp-wBIoB4Aw/viewform?usp=sf_link)
+- description: Ensure clear, concise writing with developmental and line edits. [Submit your draft](https://www.honeybook.com/widget/alliance_sci_comm_consulting_llc_254619/cf_id/645f1e9ba05e710b1aaeba24)
   icon: edit
   icon_pack: fas
   name: Edits & Revisions
-- description: "Feedback for content and layout on practice talks, slides, and posters. [Schedule your presentation practice and consult](https://calendly.com/alliance_scc/presentation-practice-and-feedback)"
+- description: "Feedback for content and layout on practice talks, slides, and posters. [Schedule your presentation practice and consult](https://alliancescicommconsultingllc.hbportal.co/schedule/6459c3b1a0482b31c001e0c0)"
   icon: file-powerpoint
   icon_pack: fas
   name: Presentation Feedback
@@ -42,7 +42,7 @@ feature:
   icon: tools
   icon_pack: fas
   name: Professional Development Workshops
-- description: Need help but don't see exactly what you need? [Book a FREE consultation](https://calendly.com/alliance_scc/free-consult)!
+- description: Need help but don't see exactly what you need? [Book a FREE consultation](https://alliancescicommconsultingllc.hbportal.co/schedule/645992cc0509310031543389) or [Get in touch](https://www.honeybook.com/widget/alliance_sci_comm_consulting_llc_254619/cf_id/646254775725a801c88dd408)!
   icon: circle-question
   icon_pack: fa
   name: Don't See Something?

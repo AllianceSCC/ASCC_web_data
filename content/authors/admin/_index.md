@@ -40,9 +40,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
+- icon: square
+  icon_pack: fa
+  link: 'https://bsky.app/profile/dradawrites.bsky.social'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/adahagan
+  link: https://twitter.com/dradawrites
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=NF41slgAAAAJ&hl=en

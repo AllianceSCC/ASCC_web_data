@@ -14,22 +14,25 @@ header:
 
 {{% toc %}}
 
-## Professional Development
+## Professional Development (Get Better at Writing)
 
 Science Writing Labs --- Get help demystifying the writing process with one-on-one writing coaching to get that first draft faster and/or a better second draft. Science Writing Labs with ASCC includes four, one-hour sessions, a personalized coaching plan, and pre- and post-assessments to track your growth.
 
 {{< cta cta_text="Learn more" cta_link="/science-writing-labs/" cta_new_tab="true" >}}
 
-## Structure/Content Revision
+***
+
+## Paper/Dissertation Help
+
+### Structure/Content Revision
 	
 Early in the writing/brainstorming process and need help with deciding what should be included, the organization of an early draft, or can't _quite_ put your finger on what's missing? Structure and content revisions come in at the beginning of your writing process. We can help you brainstorm or outline that early draft before it exists and then suggest revisions to your writing to identify missing information or help with the overall organization. **Use content and structure revising to ensure concise writing with all the information your readers need, and nothing they don't.**
 
-{{< cta cta_text="Submit your draft" cta_link="https://docs.google.com/forms/d/e/1FAIpQLSdoj5QbHZk3iYhxSnj5PtyJyEoHn882cL-WA45Sp-wBIoB4Aw/viewform?usp=sf_link" cta_new_tab="true" >}}
-
-## Line Editing		
+### Line Editing
+		
 In the late stages of writing and need fresh eyes to check for grammar and typos? Line editing gets you a fresh pair of eyes to make sure that each paragraph looks, and reads, its best. **Use editing to drop your word count and catch those mistakes that will distract the reader from your writing.**
 
-{{< cta cta_text="Submit your draft" cta_link="https://docs.google.com/forms/d/e/1FAIpQLSdoj5QbHZk3iYhxSnj5PtyJyEoHn882cL-WA45Sp-wBIoB4Aw/viewform?usp=sf_link" cta_new_tab="true" >}}
+{{< cta cta_text="Get a quote" cta_link="https://www.honeybook.com/widget/alliance_sci_comm_consulting_llc_254619/cf_id/645f1e9ba05e710b1aaeba24" cta_new_tab="true" >}}
 
 ***
 
@@ -41,12 +44,12 @@ In the late stages of writing and need fresh eyes to check for grammar and typos
 
 * Talks --- Need a practice audience prepared to give meaningful feedback on your upcoming presentation or job talk? We will watch your presentation and provide feedback on everything from substance to style.
 
-{{< cta cta_text="Schedule your practice" cta_link="https://calendly.com/alliance_scc/presentation-practice-and-feedback" cta_new_tab="true" >}}
+{{< cta cta_text="Schedule your practice" cta_link="https://alliancescicommconsultingllc.hbportal.co/schedule/6459c3b1a0482b31c001e0c0" cta_new_tab="true" >}}
 
 ***
 
 
-## Webinars
+## Webinars & Workshops
 
 Alliance has a host of on-demand and event-ready workshops and talks. 
 
@@ -54,15 +57,21 @@ Alliance has a host of on-demand and event-ready workshops and talks.
 
 ***
 
-## Consulting & More
+## Custom Projects, Consulting, & More
 	
 * Research	summary (~2k words)	--- Interested in expanding your research into a new direction but need a handle on the literature? Use our research summary services to dig through the literature and write a brief (~2,000 word) summary of the field. [Not for use in published manuscripts without prior agreements]
 
 * Reproducible data analysis --- Need help analyzing that data and/or making the right graphics? Let us help by creating an easy to use and repeatable method of cleaning and visualizing your data.
 
-* Don't see what you need? Not sure _what_ you need? Ask Alliance!
+{{< cta cta_text="Get started" cta_link="https://www.honeybook.com/widget/alliance_sci_comm_consulting_llc_254619/cf_id/646254775725a801c88dd408" cta_new_tab="true" >}}
 
-{{< cta cta_text="Schedule a FREE needs assessment" cta_link="https://calendly.com/alliance_scc/free-consult" cta_new_tab="true" >}}
+***
+
+## Ask Ada!
+
+Don't see what you need? Not sure what you need?
+
+{{< cta cta_text="Schedule a FREE needs assessment" cta_link="https://alliancescicommconsultingllc.hbportal.co/schedule/645992cc0509310031543389" cta_new_tab="true" >}}
 
 ***
 

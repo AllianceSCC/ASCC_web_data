@@ -13,10 +13,10 @@ design:
 
 Labs include four virtual professional development sessions that are accompanied by:
   
-   - a personalized development plan, 
+   - a personalized {{% staticref "uploads/Coaching_plan.pdf" %}}development plan{{% /staticref %}}, 
     
    - relevant writing resources,
     
    - in-progress reviews with written feedback, and
     
-   - pre- and post-assessments.
+   - pre- and post-{{% staticref "uploads/Writing_assessment.pdf" %}}assessments{{% /staticref %}}.

@@ -28,8 +28,8 @@ design:
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-  url: https://calendly.com/d/dqs-c4q-p3v
-  label: REGISTER
+  url: https://www.honeybook.com/widget/alliance_sci_comm_consulting_llc_254619/cf_id/6463e171f0aad30d32114a82
+  label: Register Now
   icon_pack: fas
   icon: file-signature
   align: center

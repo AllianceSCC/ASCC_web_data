@@ -9,8 +9,6 @@ share: true
 
 * [eBooks]({{< ref "science-writing-ebook" >}})
 
-* [OnDemand Webinars]({{< ref "webinars" >}})
-
 * [Writing & Editing Tips]({{< ref "post/" >}})
 
 * [The Neutral Language Thesaurus]({{< ref "neutral-language-thesaurus" >}})
