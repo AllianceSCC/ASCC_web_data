@@ -32,9 +32,11 @@ content:
   - name: Narrative Structure
     tag: Narrative
   - name: Drafting
-    tag: Scientific Writing
+    tag: Drafting
   - name: Revising
     tag: Revising
+  - name: ADHD
+    tag: ADHD
 
   # Choose how many pages you would like to offset by
   offset: 0

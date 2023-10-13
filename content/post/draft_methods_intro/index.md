@@ -11,6 +11,7 @@ authors:
 tags: 
 - Writing
 - Process
+- Drafting
 
 categories: 
 - Blog

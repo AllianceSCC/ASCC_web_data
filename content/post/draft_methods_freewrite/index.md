@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "The 'Freewrite' Method for Scientific Writing"
-summary: "Freewriting is a writing warm-up that can also be applied to the drafting process."
+summary: "Freewriting is a stream of consciousness writing warm-up that can also be applied to the drafting process."
 date: 2021-07-07
 
 authors: 
@@ -10,6 +10,7 @@ authors:
 
 tags: 
 - Writing
+- Drafting
 
 categories: 
 - Blog

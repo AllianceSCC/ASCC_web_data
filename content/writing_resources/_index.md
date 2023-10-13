@@ -26,7 +26,13 @@ share: true
 * {{% staticref "uploads/Trainee_feedback_guide.pdf" %}}Incorporating feedback to improve your writing (For Trainees){{% /staticref %}}
 
 
+* {{% staticref "uploads/Grammar_v_Style.pdf" %}}The rules of grammar versus style{{% /staticref %}}
+
+
 * {{% staticref "uploads/Paragraph_structure.pdf" %}}Paragraphs: The building blocks of papers{{% /staticref %}}
+
+
+* {{% staticref "uploads/Transition_cheatsheet.pdf" %}}Tips on transitions{{% /staticref %}}
 
 
 ### Worksheets:

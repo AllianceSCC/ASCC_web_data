@@ -10,6 +10,7 @@ authors:
 
 tags: 
 - Writing
+- Drafting
 
 categories: 
 - Blog

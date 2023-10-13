@@ -34,23 +34,23 @@ projects: []
 
 In the course of a literature review, you may come across hundreds of research papers that will contribute to your understanding of the field and possibly even be cited in a manuscript. So how do you keep track of these sources?
 
-1. **Write an annotated bibliography** - An annotated bibliography is going to be a list of the sources that you’ve read along with important notes to explain the source’s importance and relevance to your research. While some people do this by hand, that can be laborious, particularly when you are searching for a source after the fact. My suggestion for the modern annotated bibliography is to use a searchable format such as Word, Rmarkdown, OneNote, or EndNote, etc. That will allow you to easily re-reference a source and (re)identify sources that talk about particular concepts. Below is a list of components to include in each entry.
+1. **Write an annotated bibliography** --- An annotated bibliography is going to be a list of the sources that you’ve read along with important notes to explain the source’s importance and relevance to your research. While some people do this by hand, that can be laborious, particularly when you are searching for a source after the fact. My suggestion for the modern annotated bibliography is to use a searchable format such as Word, Rmarkdown, OneNote, or EndNote, etc. That will allow you to easily re-reference a source and (re)identify sources that talk about particular concepts. Below is a list of components to include in each entry (and {{% staticref "uploads/Annotated_bibliography.pdf" %}}here's a worksheet{{% /staticref %}}).
 
-    * **Citation** - In addition to the author(s) and year of publication, you should also make a note of the doi (so you can find it later using [https://doi.org/[insert doi]]()), and the filename of the pdf. The filename is especially important since it allows you to find the pdf you already have, without opening 20 files one-by-one.
+    * **Citation** --- In addition to the author(s) and year of publication, you should also make a note of the doi (so you can find it later using [https://doi.org/[insert doi]]()), and the filename of the pdf. The filename is especially important since it allows you to find the pdf you already have, without opening 20 files one-by-one.
 
-    * **Methods** - Are any of the methods used especially relevant to your work? This might be because you need the protocol, they are key to interpreting the data, and/or are insufficient (i.e., they provide an opportunity for you to improve the field).
+    * **Methods** --- Are any of the methods used especially relevant to your work? This might be because you need the protocol, they are key to interpreting the data, and/or are insufficient (i.e., they provide an opportunity for you to improve the field).
 
-    * **Results** - What are the key results and findings? What figure is central to their story?
+    * **Results** --- What are the key results and findings? What figure is central to their story?
 
-    * **Limitations** - What are the limitations of the research? What could be done differently to improve the robustness of the research?
+    * **Limitations** --- What are the limitations of the research? What could be done differently to improve the robustness of the research?
 
-    * **Your thoughts** - What do you think about the paper? Use this as an opportunity to present your unfiltered thoughts, feelings, musings, and big ideas. That way you can find them later.
+    * **Your thoughts** --- What do you think about the paper? Use this as an opportunity to present your unfiltered thoughts, feelings, musings, and big ideas. That way you can find them later.
 
-    * **Follow up** - Are there any references that you should read in the future?
+    * **Follow up** --- Are there any references that you should read in the future?
 
-1. **Keep a spreadsheet** - Spreadsheets are another option for keeping track of the sources you have identified in a searchable and easy to skim format. In this case, you would likely have more information about the source’s origins, citations, accessibility, etc. (See "Organizing Sources" in the resources below for a template)
+1. **Keep a spreadsheet** --- Spreadsheets are another option for keeping track of the sources you have identified in a searchable and easy to skim format. In this case, you would likely have more information about the source’s origins, citations, accessibility, etc. (See "Organizing Sources" in the resources below for a template)
 
-1. **Use a citation management system** - Some citation management systems are great for keeping track of relevant sources. Mendeley is a particularly good option because you can import, read, highlight, annotate, and search for a pdf. However, it has undergone some recent changes that make it more difficult to use and transfer your references if necessary. (See the resources below for some handy web tools)
+1. **Use a citation management system** --- Some citation management systems are great for keeping track of relevant sources. Mendeley is a particularly good option because you can import, read, highlight, annotate, and search for a pdf. However, it has undergone some recent changes that make it more difficult to use and transfer your references if necessary. (See the resources below for some handy web tools)
 
 
 ## Resources
