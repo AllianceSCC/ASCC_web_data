@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Writing with ADHD (Or, Fishing Barehanded)"
-summary: "Reflections on how my ADHD diagnosis and its effects on my career in science writing."
+summary: "Reflections on how my ADHD diagnosis affects my career in science writing."
 date: 2023-10-13
 
 authors: 
