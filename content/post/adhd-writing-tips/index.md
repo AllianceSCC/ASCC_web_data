@@ -20,7 +20,7 @@ categories:
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "A frustrated woman stares at her laptop while biting a pencil. Image by [Jan Vašek](https://pixabay.com/users/jeshoots-com-264599/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3087585) from [Pixabay](https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3087585)"
+  caption: "A frustrated woman stares at her laptop while biting a pencil. Image by [Jan Vašek](https://pixabay.com/users/jeshoots-com-264599/) from [Pixabay](https://pixabay.com/)"
   focal_point: ""
   preview_only: false
 
@@ -72,11 +72,11 @@ If you're stuck and need help right now:
 
 If you’re thinking about how to make consistent progress on a project without leaving it to the last minute:
 
-**Rotate projects** --- Executive function isn’t exactly a strong suit for people with ADHD this may seem a counterintuitive suggestion, but consider maintaining multiple projects. Because our interest in a project can come in fits and bursts, having multiple projects that you can pick up and put down as your interest varies means that even if one seems impossible to tackle, you may have the brainspace or inspiration for another of your projects. Rotating through them can satisfy the need for novelty while maintaining momentum (and fostering incubation [^1]).
+**Rotate projects** --- Executive function isn’t exactly a strong suit for people with ADHD this may seem a counterintuitive suggestion, but consider maintaining multiple projects. Because our interest in a project can come in fits and bursts, having multiple projects that you can pick up and put down as your interest varies means that even if one seems impossible to tackle, you may have the brainspace or inspiration for another of your projects. Rotating through them can satisfy the need for novelty while maintaining momentum (and fostering [incubation]({{< ref "post/draft_methods_incubation" >}})).
 
 **Body double** --- Find an accountability buddy or group that you can co-work with, either in-person or online. People with ADHD tend to be socially motivated. Having another person trying to focus while you’re trying to focus can sometimes enhance your ability to focus!
 
-**The Set-up method[^1]** --- Plan ahead and stop while things are flowing. Leave a word, sentence, or paragraph unwritten so that you know right where to start next time. As great as it can feel to get words on the page, it can help to stop writing before you burn out. 
+**The [set-up method]({{< ref "post/draft_methods_setup" >}})** --- Plan ahead and stop while things are flowing. Leave a word, sentence, or paragraph unwritten so that you know right where to start next time. As great as it can feel to get words on the page, it can help to stop writing before you burn out. 
 
 **Keep the trash** --- Instead of completely deleting phrases and/or paragraphs that don't work, keep a separate document for each of your projects where you can move those snippets. When you feel stuck, skim through the "trash" for anything that inspires.
 
@@ -89,9 +89,11 @@ If you’re thinking about how to make consistent progress on a project without 
 
 **Got any tips to add? Let me know on [LinkedIn](https://www.linkedin.com/in/adahagan/) or [Bluesky](https://bsky.app/profile/dradawrites.bsky.social)!**
 
-[^1]: Posts to describe these methods in more detail are on their way!
+[^1]: A post to describe this method in more detail is on its way!
 
 ## Resources
+
+* [Q&A: Writing Past the Hard Parts](https://www.hackingyouradhd.com/podcast/qampa-writing-past-the-hard-parts) | A short podcast episode with thoughts about what makes writing hard and how to get past the hard parts.
 
 * [ADHD Writing Tips on Reddit](https://www.reddit.com/r/writing/comments/13dm067/pro_writers_with_adhd_what_are_your_tips_to_get/)
 

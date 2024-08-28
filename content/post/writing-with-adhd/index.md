@@ -61,6 +61,18 @@ So this post serves multiple functions:
 
 ## Resources
 
-* [The ADHD Academic](https://theadhdacademic.weebly.com/)
+* [The ADHD Academic](https://theadhdacademic.weebly.com/) | A blog exploring how to cope with ADHD in the academy.
 
-* [Assistive Writing Technology](https://www.additudemag.com/assistive-technology-writing-tools-for-students-with-adhd/)
+* [Assistive Writing Technology](https://www.additudemag.com/assistive-technology-writing-tools-for-students-with-adhd/) | A list of digital tools to help learners with ADHD
+
+* [Supporting Neurodiverse Writers](https://www.helensword.com/helen-sword-blog/supporting-neurodiverse-writers) | A thoughtful summary of a discussion and workshop focused on neurodiversity and neurodivergence in scholarly writing with tools for managing the mentor/mentee writing relationship.
+
+* [Writing Academically When You are Neurodiverse](https://academiccoach.info/blog/writing-academically-when-you-are-neurodiverse) | Concrete examples that may help articulate your needs and how they can be met.
+
+* [Hacking Graduate School For Neurodiverse Learners: Part 1 of 3](https://scholarstudioblog.wordpress.com/2015/11/14/hacking-graduate-school-with-learning-differences/) | Questions to help trainees identify why they might be struggling with examples of helpful accommodations.
+
+* [Advising Neurodiverse Thesis and Dissertation Students: Part 2 of 3](https://scholarstudioblog.wordpress.com/2015/11/15/working-with-neurodiverse-graduate-students-ideas-for-faculty/) | Addresses common myths about trainee help and offers suggestions for advisors to help neurodiverse trainees succeed.
+
+* [How We [Actually] Write: Neurodiversity, Writing Process, and Writing Instruction](https://dept.writing.wisc.edu/blog/how-we-actually-write-neurodiversity-writing-process-and-writing-instruction/) | A writing center tutor discusses how writing is a neurodiverse process that requires more flexibility in its instruction and execution.
+
+* [How to Write with ADHD and Coach Skye Waterson](https://open.spotify.com/episode/04jmbP9fPOh8Zatzp2BJbu?si=38509f5fdbdc4814) | A writing podcast interviews an ADHD researcher about writing her dissertation and how the struggles of an ADHD writer differs from those without.

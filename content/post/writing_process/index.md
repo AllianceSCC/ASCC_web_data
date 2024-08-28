@@ -3,7 +3,7 @@
 
 title: "Scientific Writing is Messy. That’s Perfect."
 summary: "The scientific writing process can be summarized in five steps: prewriting, drafting, revising, editing, and finally… publication. It seems straightforward, but also... overwhelming."
-date: 2020-05-13
+date: 2024-08-13
 
 authors: 
 - admin
@@ -83,8 +83,16 @@ If the demands of a linear writing process seem overwhelming to you. It’s unde
 
 ## Resources:
 
-[The 5-Step Writing Process: From Brainstorming to Publishing](https://www.liferichpublishing.com/AuthorResources/General/5-Step-Writing-Process.aspx)
+[How We Write: Thirteen Ways of Looking at a Blank Page](https://punctumbooks.com/titles/how-we-write/) | Essays exploring the messiness of writing and the evolution of each author’s own process.
 
-[The Writing Process 5 Basic Stages](http://bowenpeters.weebly.com/uploads/8/1/1/9/8119969/writing_process_detailed.pdf)
+[Teaching Writing as Process](https://writing.dartmouth.edu/teaching/first-year-writing-pedagogies-methods-design/teaching-writing-process) | Defines writing process vs. product, thoroughly describes process writing and gives tips for facilitating a trainee’s writing process.
 
-[Teaching Elementary School Students to Be Effective Writers](https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/writing_pg_062612.pdf)
+[Chapter 7: The Writing Process: How Do I Begin?](https://saylordotorg.github.io/text_business-english-for-success/s11-the-writing-process-how-do-i-b.html) | An extensive description of each step in the writing process with tips, techniques, examples, and prompts.
+
+[The Art of Academic Writing - The Writing Process](https://sites.google.com/site/writingwithpete/the-writing-process) | An engaging description of the writing process that addresses two common misconceptions and procrastination.
+
+[The Writing Process: Exploring Different Writers' Processes](https://youtu.be/_X3S43LqVi8?feature=shared) | A video featuring a brief overview followed by several examples of processes used by famous creative authors.
+
+[Six Steps to Developing Your Writing Process](https://www.youtube.com/watch?v=vKRmsjT-iIE) | A webinar recording with a longer walk-through of the writing process that uses an essay prompt to demonstrate progression.
+
+[The Writing Process and Process Writing](https://youtu.be/vRJuwzCfix4?feature=shared) | A video that defines process-oriented approaches and gives a brief overview of process writing.

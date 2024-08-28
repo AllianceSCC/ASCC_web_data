@@ -48,7 +48,7 @@ This is the beginning of a blog series that will explore and describe several me
 
 > The goal of this series is to provide academic writers, like yourself, with tools to personalize and improve the writing process. 
 
-I encourage you to experiment with them, find what works for you, and then tell me about it. What worked? What didn’t work? Why not? Perhaps your experience will make it into a future post. ;)
+I encourage you to experiment with them, find what works for you, and then tell me about it (find me on [LinkedIn](https://www.linkedin.com/in/adahagan/) or [Bluesky](https://bsky.app/profile/dradawrites.bsky.social)). What worked? What didn’t work? Why not? Perhaps your experience will make it into a future post. ;)
 
 ***
 
@@ -60,21 +60,25 @@ I encourage you to experiment with them, find what works for you, and then tell 
 
 + [The Freewrite]({{< ref "post/draft_methods_freewrite" >}})
 
-+ [The Outline]()
++ [The Outline]({{< ref "post/draft_methods_outline" >}})
 
-+ [Refinery]()
++ [Refinery]({{< ref "post/draft_methods_refinery" >}})
 
-+ [The Jigsaw]() 
++ [The Jigsaw]({{< ref "post/draft_methods_jigsaw" >}}) 
 
-+ [The Spurt]()
++ The Spurt[^1]
 
-+ [The Incubation]()
++ [The Incubation]({{< ref "post/draft_methods_incubation" >}})
 
-+ [Sessional]()
++ Sessional[^1]
 
-+ [The Set Up]()
++ [The Set Up]({{< ref "post/draft_methods_setup" >}})
 
-+ [Tips and Tricks]()
++ Tips and Tricks[^1]
+
+[^1]: These posts are works in progress.
+
+
 
 
 
