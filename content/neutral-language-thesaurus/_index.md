@@ -36,23 +36,23 @@ To get started, look for the word or phrase you want to _replace_. Don't see it?
 ### D
 
 - **Deranged:** wild, confusing, unpredictable, impulsive, reckless, fearless, lives on the edge, thrill-seeker, risk-taker, out of control, bizarre, wild, restless, intense overwhelming, sensational, unbelievable, absurd, ridiculous, confusing
-- **Disorder/defect:** (Genetic) condition
+- **Disorder/defect:** (genetic) condition
 - **Disseminate:** publicize, distribute, circulate, communicate
 
 ### E
 
 
 ### F
-
+- **Female:** (cables/pipes/connectors) recessed threading, socket
 
 ### G
 
-- **Gender identity disorder:** Gender dysphoria
-- **Gender non-binary:** Non-binary
+- **Gender identity disorder:** gender dysphoria
+- **Gender non-binary:** non-binary
 
 ### H
 
-- **His/Her:** Their
+- **His/Her:** their
 
 ### I
 
@@ -69,20 +69,22 @@ To get started, look for the word or phrase you want to _replace_. Don't see it?
 
 ### M
 
-- **Man-hours:** Labor hours
-- **Man-made:** Manufactured
-- **Manhunt:** Search
-- **Mankind:** Humankind
-- **Manned:** Crewed, staffed
-- **Men and Women:** People
+- **Male:** (cables/pipes/connectors) extended threading, plug
+- **Man-hours:** labor hours
+- **Man-made:** manufactured
+- **Manhunt:** search
+- **Mankind:** humankind
+- **Manned:** crewed, staffed
+- **Master:** (computing) administrator, commander, principal
+- **Men and Women:** people
 
 ### N
 
 
 ### O
 
-- **One:** Their
-- **Opposite sex:** Different sex
+- **One:** their
+- **Opposite sex:** different sex, another sex
 
 ### P
 
@@ -100,15 +102,16 @@ To get started, look for the word or phrase you want to _replace_. Don't see it?
 - **Seminal:** influential, formative, groundbreaking, innovative
 - **Sex change/reassignment:** transition, gender-affirming care, transition-related care
 - **Sexy:** intriguing, fascinating, fashionable, trendy
+- **Slave:** (computing) drudge, drone, submodule, secondary
 - **Stricken:** patient of
 - **Strong:** robust evidence, hardy specimen, tenacious candidate, secure system, stricter assumptions
 - **Suffers:** patient of
-- **Suicide:** (inhibitors) irreversable; (neutrophils) 
+- **Suicide:** (inhibitors) irreversible; (neutrophils) 
 
 ### T
 
-- **Transgendered:** Transgender
-- **Tribe:** Group, crew, circle, squad, community
+- **Transgendered/transsexual:** transgender
+- **Tribe:** group, crew, circle, squad, community
 
 ### U
 
@@ -119,7 +122,7 @@ To get started, look for the word or phrase you want to _replace_. Don't see it?
 
 ### W
 
-- **Wheelchair-bound:** Wheelchair user
+- **Wheelchair-bound:** wheelchair user
 
 ### X
 
@@ -134,11 +137,14 @@ To get started, look for the word or phrase you want to _replace_. Don't see it?
 
 # Related Resources
 
+- The International Longevity Center: https://www.issuelab.org/resources/11981/11981.pdf
+- The Association of LGBTQ+ Journalists: https://www.nlgja.org/stylebook-on-lgbtq-terminology/
 - Trans Journalists Association, Style Guide: https://transjournalists.org/style-guide/
 - National Center on Disability and Journalism, Disability Language Style Guide: https://ncdj.org/style-guide/
 - Conscious Style Guide: https://consciousstyleguide.com/
 - Linguistic Society of America, Guidelines for Inclusive Language: https://www.linguisticsociety.org/resource/guidelines-inclusive-language
 - Autistic HOYA, Ableism/Language: https://www.autistichoya.com/p/ableist-words-and-terms-to-avoid.html
 - The National Association of Hispanic Journalists (NAHJ), Cultural Competence Handbook: https://nahj.org/wp-content/uploads/2020/08/NAHJ-Cultural-Competence-Handbook.pdf
+- CDC’s Guiding Principles to Promote an Equity-Centered Approach to Public Health Communication: https://www.cdc.gov/pcd/issues/2023/23_0061.htm
 
 {{% toc %}}

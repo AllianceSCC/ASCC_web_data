@@ -1,6 +1,6 @@
 ---
 title: Pro Bono Services
-summary: "To _make science accessible_, Alliance SciComm & Consulting dedicates 10% of our work week to help members of marginalized trainees succeed. **For free.**"
+summary: "Alliance provides free editing services for eligible academics."
 date:
 type:
 
@@ -13,15 +13,6 @@ share: true
 ---
 {{< popup_form 61c280aed2fc90968d6f48e4 >}}
 
-To _make science accessible_, Alliance SciComm & Consulting dedicates 10% of our work week to help members of marginalized trainees succeed. **For free.**
+To help _make science accessible_, Alliance SciComm & Consulting dedicates upto 10% of the work week to providing pro bono editing services through the [Academic Editing Circle](https://academic-editing-circle.us/), "a group of professional editors who have organized to make editing services easily available to Black and/or Indigenous people building academic careers."
 
-
-If you are a woman, think you may belong to a marginalized group, and need help with technical writing, grant proposals, or fellowship applications, use the form below to check your eligibility and start your editing service!
-
-Tip: Complete the form **when you are ready** to submit your draft for editing.
-
-[Open Eligibility Form in new tab](https://www.honeybook.com/widget/alliance_sci_comm_consulting_llc_254619/cf_id/648a8502db0d85002ca01de5)
-
-
-{{< honeybook_inline 6 >}}
-
+To access free editing services, you can review their list of [available pro bono editors](https://academic-editing-circle.us/find-editors/) or [contact us]({{< ref "../#contact" >}}). Be sure to include (i) the type of project you’re working on (journal article, book chapter, dissertation, funding proposal), (ii) the type of help you're looking for (developmental editing, line editing, proofing), and (iii) your general timeline (especially if you have a fixed external deadline) in your email.

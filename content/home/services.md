@@ -30,7 +30,7 @@ feature:
   icon: file-powerpoint
   icon_pack: fas
   name: Presentation Feedback
-- description: _Pro bono_ editing and feedback services for eligible women, HURM trainees. <a href='for_hurm' >Learn more here.</a>
+- description: _Pro bono_ editing and feedback services. <a href='for_hurm' >Learn more here.</a>
   icon: balance-scale-left
   icon_pack: fas
   name: Trainee Support
