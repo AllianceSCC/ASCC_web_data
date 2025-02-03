@@ -75,8 +75,5 @@ Don't see what you need? Not sure what you need?
 
 ***
 
-Are you a woman/NGC trainee & member of a marginalized group? [See our services dedicated]({{< ref "for_HURM/" >}}) to you.
-
-
 * [**Resources**]({{< ref "writing_resources/" >}}) - blog, references, and worksheets
 

@@ -79,6 +79,6 @@ I'm Dr. Ada Hagan, a microbiologist with a passion for making science accessible
 
 As a first-generation PhD, I get that navigating the academy is complicated and that academic english is its own language. I also know that the process is more important than the details that you can always google and that there isn't a one-size-fits-all approach to writing. That's why I focus on a writer's strengths to personalize their _process_ of scientific writing into one that will last a lifetime.
 
-In addition to science writing labs, I offer manuscript and grant writing and editing, writing-related webinars, and more. I also provide [pro bono services]({{< ref "for_hurm/" >}}) to women trainees who belong to traditionally marginalized groups.
+In addition to science writing labs, I offer manuscript and grant writing and editing, writing-related webinars, and more.
 
 My writing and research have been featured by [BBC Radio 4](https://www.bbc.co.uk/programmes/m000qjgn), [Science Careers](https://www.sciencemag.org/careers/2019/11/departmental-seminar-speakers-should-better-reflect-trainee-diversity), [The Scientist](https://www.the-scientist.com/news-opinion/qa--myth-debunkers-take-aim-at-microbiology-lore-66036), [Massive Science](https://massivesci.com/articles/cephalopods-are-forcing-us-to-rethink-what-it-means-to-be-colorblind/), and the [American Society for Microbiology](https://www.asm.org/Biographies/Ada-Hagan).

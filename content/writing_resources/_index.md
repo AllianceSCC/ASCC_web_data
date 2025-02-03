@@ -17,7 +17,6 @@ share: true
 
 * [Funding Options]({{< ref "post/pay-for-academic-editing" >}})
 
-* [For HURM/GNC Trainees]({{< ref "for_HURM" >}})
 
 ### Cheatsheets:
 * {{% staticref "uploads/PI_feedback_guide.pdf" %}}Facilitating trainee writing (For PIs){{% /staticref %}}

@@ -22,27 +22,27 @@ design:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Ensure clear, concise writing with developmental and line edits. [Submit your draft](https://www.honeybook.com/widget/alliance_sci_comm_consulting_llc_254619/cf_id/645f1e9ba05e710b1aaeba24)
-  icon: edit
+- description: From developmental and line edits to ensure clear, concise writing to proofreading before submission. [Submit your draft here.](https://www.honeybook.com/widget/alliance_sci_comm_consulting_llc_254619/cf_id/645f1e9ba05e710b1aaeba24)
+  icon: paragraph
   icon_pack: fas
   name: Edits & Revisions
+- description: Get scientific writing professional development with one-on-one coaching. Great for trainees and ESL writers. <a href='better_writing' >Learn more here.</a>
+  icon: pencil
+  icon_pack: fas
+  name: Writing Coaching
 - description: "Feedback for content and layout on practice talks, slides, and posters. [Schedule your presentation practice and consult](https://alliancescicommconsultingllc.hbportal.co/schedule/6459c3b1a0482b31c001e0c0)"
   icon: file-powerpoint
   icon_pack: fas
   name: Presentation Feedback
-- description: _Pro bono_ editing and feedback services. <a href='for_hurm' >Learn more here.</a>
-  icon: balance-scale-left
+- description: Need to get a paper out but don't have the trainees, time, or energy to write it? [Let Ada help!](https://www.honeybook.com/widget/alliance_sci_comm_consulting_llc_254619/cf_id/646254775725a801c88dd408)
+  icon: clock
   icon_pack: fas
-  name: Trainee Support
-- description: Get scientific writing professional development with one-on-one coaching. Great for trainees and ESL writers. <a href='better_writing' >Learn more here.</a>
-  icon: chalkboard-teacher
-  icon_pack: fas
-  name: Science Communication
+  name: Paper Support
 - description: Writing and SciComm topics from scientific narrative to writing a review paper. <a href='webinars' >Learn more here.</a>
   icon: tools
   icon_pack: fas
   name: Professional Development Workshops
-- description: Need help but don't see exactly what you need? [Book a FREE consultation](https://alliancescicommconsultingllc.hbportal.co/schedule/645992cc0509310031543389) or [Get in touch](https://www.honeybook.com/widget/alliance_sci_comm_consulting_llc_254619/cf_id/646254775725a801c88dd408)!
+- description: Need help but don't see exactly what you need? [Book a FREE consultation](https://alliancescicommconsultingllc.hbportal.co/schedule/645992cc0509310031543389) or [get in touch](https://www.honeybook.com/widget/alliance_sci_comm_consulting_llc_254619/cf_id/646254775725a801c88dd408)!
   icon: circle-question
   icon_pack: fa
   name: Don't See Something?

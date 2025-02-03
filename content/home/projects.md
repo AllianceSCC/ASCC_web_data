@@ -35,6 +35,8 @@ content:
     tag: DEI
   - name: Blogs
     tag: Blog
+  - name: Edited Books
+    tag: Book
   - name: Science Communication
     tag: SciComm
   - name: Career & Advocacy

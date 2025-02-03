@@ -46,7 +46,7 @@ subtitle = ""
 
 ## Welcome!
 
-Alliance SciComm & Consulting, LLC was founded in 2019 by Dr. Ada Hagan, a microbiologist with a passion for making science accessible. Dr. Hagan seeks to use her strong background in science communication and higher education to help make scientific concepts more easily understood and make the academy more inclusive to future scientists from all backgrounds. 
+Alliance SciComm & Consulting, LLC was founded in 2019 by Dr. Ada Hagan, a microbiologist with a passion for making science accessible. Dr. Hagan seeks to use her strong background in science communication and higher education to help make scientific concepts more easily understood and make the academy more accessible to future scientists from all backgrounds. 
 
 
 ## Project Portfolio
