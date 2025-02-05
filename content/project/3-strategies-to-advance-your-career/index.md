@@ -11,8 +11,7 @@ tags:
 categories: 
 - Blog
 - Portfolio
-date: 2021-10-25T23:07:02-04:00
-
+date: 2021-09-01
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.hercjobs.org/3-strategies-to-advance-your-career/"
 

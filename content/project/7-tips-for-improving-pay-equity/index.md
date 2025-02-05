@@ -1,10 +1,9 @@
 ---
 title: 7 Tips for Improving Pay Equity
 summary: Here are seven tips to help you decide your worth on the job market and have a better chance at closing the wage gap.
-date: []
+date: 2021-05-10
 tags:
 - Blog
-- DEI
 - Career
 categories:
 - Blog

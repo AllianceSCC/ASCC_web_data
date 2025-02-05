@@ -1,7 +1,7 @@
 ---
 title: Probing the Depths of Life
 summary: Microbes at the bottom of the sea don’t have sugar or sunlight. Instead, they harvest their energy from the unique chemistry of hydrothermal vents.
-date: []
+date: 2019-05-24
 tags:
 - SciComm
 - Blog

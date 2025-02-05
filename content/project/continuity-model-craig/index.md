@@ -9,7 +9,7 @@ tags:
 - Book
 categories:
 - Portfolio
-date: 2025-02-03T11:30:12-05:00
+date: 2021-09-28
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.wiley.com/en-us/Continuity+Model+Generation%3A+Integrating+Wealth%2C+Strategy%2C+Talent%2C+and+Governance+Plans-p-9781119759355"

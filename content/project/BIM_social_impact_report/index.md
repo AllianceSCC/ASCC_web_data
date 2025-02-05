@@ -4,7 +4,6 @@ summary: An analysis of event registration and social media campaign data compil
 date: []
 tags:
 - Data Analysis
-- DEI
 categories:
 - Project
 - Portfolio

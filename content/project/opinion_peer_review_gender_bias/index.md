@@ -6,13 +6,12 @@ summary: "A massive project analyzing the peer-review outcomes of 350,000 manusc
 authors: 
   - admin
 tags: 
-  - DEI
+  - Career
 categories: 
   - Portfolio
-date: 2021-09-10T17:29:42-04:00
-
+date: 2021-01-29
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.the-scientist.com/news-opinion/opinion-peer-review-study-compromises-response-to-gender-bias-68401"
+external_link: "https://www.the-scientist.com/opinion-peer-review-study-compromises-response-to-gender-bias-68401"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

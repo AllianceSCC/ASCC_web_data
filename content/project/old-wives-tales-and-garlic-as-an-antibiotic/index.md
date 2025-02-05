@@ -1,11 +1,10 @@
 ---
 title: "Old Wives’ Tales and Garlic as an Antibiotic: Are Microbial Myths Fact or Fiction?"
 summary: The history of “old wives” and how they supported their communities against disease and infection plus the history and science of garlic as an anti-microbial.
-date: []
+date: 2019-07-19
 tags:
 - Blog
 - SciComm
-- DEI
 categories:
 - Blog
 - Portfolio

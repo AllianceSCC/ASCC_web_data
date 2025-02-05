@@ -1,18 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Principles and Practices of Canine and Feline Clinical Parasitic Diseases"
-summary: "Editor: Tanmoy Rana | ISBN: 978-1-394-15824-9 | January 2024 | Wiley-Blackwell | 304 pages"
+title: "Applied Smart Health Care Informatics: A Computational Intelligence Perspective"
+summary: "Editors: Sourav De, Rik Das, Siddhartha Bhattacharyya, and Ujjwal Maulik | ISBN: 978-1-119-74318-7 | February 2022 | Wiley | 224 pages"
 authors: 
 - admin
 tags: 
 - Book
 categories:
 - Portfolio
-date: 2023-11-08
+
+date: 2021-11-16
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.wiley.com/en-au/Principles+and+Practices+of+Canine+and+Feline+Clinical+Parasitic+Diseases-p-9781394158249"
+external_link: "https://www.wiley.com/en-be/Applied+Smart+Health+Care+Informatics%3A+A+Computational+Intelligence+Perspective-p-9781119743187"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

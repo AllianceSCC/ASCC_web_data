@@ -1,7 +1,7 @@
 ---
 title: "Altering the Academic Ecosystem: Graduate Education Reports Propose Critical Reforms"
 summary: To better understand the consensus of graduate education reforms and move forward in redefining the academic ecosystem, this blog will summarize findings of the two reports, note their strengths, and identify next steps to adapt the future of graduate education in microbiology.
-date: []
+date: 2019-06-21
 tags:
 - Blog
 - Career

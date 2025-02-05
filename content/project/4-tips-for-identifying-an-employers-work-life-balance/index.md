@@ -11,7 +11,7 @@ tags:
 categories: 
 - Blog
 - Portfolio
-date: 2021-10-25T23:09:02-04:00
+date: 2021-10-12
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.hercjobs.org/4-tips-for-identifying-an-employers-work-life-balance/"

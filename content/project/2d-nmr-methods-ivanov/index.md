@@ -1,18 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Principles and Practices of Canine and Feline Clinical Parasitic Diseases"
-summary: "Editor: Tanmoy Rana | ISBN: 978-1-394-15824-9 | January 2024 | Wiley-Blackwell | 304 pages"
+title: "Two‐Dimensional (2D) NMR Methods"
+summary: "Editor(s):K. Ivanov, P.K. Madhu, G. Rajalakshmi | ISBN:9781119806691 | April 2023 | John Wiley & Sons, Ltd | 556 pages"
 authors: 
 - admin
 tags: 
 - Book
 categories:
 - Portfolio
-date: 2023-11-08
+
+date: 2023-03-04
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.wiley.com/en-au/Principles+and+Practices+of+Canine+and+Feline+Clinical+Parasitic+Diseases-p-9781394158249"
+external_link: "https://onlinelibrary.wiley.com/doi/book/10.1002/9781119806721"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

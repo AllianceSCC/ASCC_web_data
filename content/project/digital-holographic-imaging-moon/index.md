@@ -1,18 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Principles and Practices of Canine and Feline Clinical Parasitic Diseases"
-summary: "Editor: Tanmoy Rana | ISBN: 978-1-394-15824-9 | January 2024 | Wiley-Blackwell | 304 pages"
+title: "Artificial Intelligence in Digital Holographic Imaging: Technical Basis and Biomedical Applications"
+summary: "Inkyu Moon | ISBN: 978-0-470-64750-9 | December 2023 | Wiley-IEEE Press | 336 pages"
 authors: 
 - admin
 tags: 
 - Book
 categories:
 - Portfolio
-date: 2023-11-08
+date: 2022-08-08
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.wiley.com/en-au/Principles+and+Practices+of+Canine+and+Feline+Clinical+Parasitic+Diseases-p-9781394158249"
+external_link: "https://www.wiley.com/en-ae/Artificial+Intelligence+in+Digital+Holographic+Imaging%3A+Technical+Basis+and+Biomedical+Applications-p-9780470647509"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

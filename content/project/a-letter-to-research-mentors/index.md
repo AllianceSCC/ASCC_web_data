@@ -1,7 +1,7 @@
 ---
 title: "A Letter to Research Mentors: How to Support Your Trainee’s Non-academic Career Development"
 summary: Dear Research Mentor, I’m writing to you on behalf of your trainees (postdocs and graduate students) who aren’t interested in a “traditional” academic career; whether they know it yet or not.
-date: []
+date: 2019-02-13
 
 tags:
 - Blog

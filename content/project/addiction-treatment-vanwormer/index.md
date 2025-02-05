@@ -9,7 +9,7 @@ tags:
 - Book
 categories:
 - Portfolio
-date: 2025-02-03T11:32:34-05:00
+date: 2023-08-25
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.cengage.com/c/addiction-treatment-a-strengths-perspective-5e-van-wormer-davis/9780357936344/"

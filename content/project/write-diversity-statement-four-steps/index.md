@@ -7,12 +7,11 @@ authors:
 - admin
 tags: 
 - Blog
-- DEI
 - Career
 categories: 
 - Blog
 - Portfolio
-date: 2021-08-27T10:45:55-04:00
+date: 2021-08-03
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.hercjobs.org/write-your-diversity-statement-in-four-steps/"

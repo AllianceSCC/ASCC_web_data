@@ -1,18 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Principles and Practices of Canine and Feline Clinical Parasitic Diseases"
-summary: "Editor: Tanmoy Rana | ISBN: 978-1-394-15824-9 | January 2024 | Wiley-Blackwell | 304 pages"
+title: "Biochemistry"
+summary: "Reginald H. Garrett and Charles M. Grisham | ISBN: 9780357728451 | 7th Edition | 2024 | Cengage"
 authors: 
 - admin
 tags: 
 - Book
 categories:
 - Portfolio
-date: 2023-11-08
+date: 2023-02-17
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.wiley.com/en-au/Principles+and+Practices+of+Canine+and+Feline+Clinical+Parasitic+Diseases-p-9781394158249"
+external_link: "https://www.cengage.com/c/biochemistry-7e-garrett-grisham/9780357728451/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

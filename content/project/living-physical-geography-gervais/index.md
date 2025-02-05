@@ -1,18 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Principles and Practices of Canine and Feline Clinical Parasitic Diseases"
-summary: "Editor: Tanmoy Rana | ISBN: 978-1-394-15824-9 | January 2024 | Wiley-Blackwell | 304 pages"
+title: "Living Physical Geography Digital Update"
+summary: "Bruce Gervais | ISBN: 9781319473914 | 2nd Edition | 2024 | MacMillan Learning"
 authors: 
 - admin
 tags: 
 - Book
 categories:
 - Portfolio
-date: 2023-11-08
+
+date: 2023-10-30
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.wiley.com/en-au/Principles+and+Practices+of+Canine+and+Feline+Clinical+Parasitic+Diseases-p-9781394158249"
+external_link: "https://www.macmillanlearning.com/college/us/product/Living-Physical-Geography-Digital-Update/p/1319322239"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

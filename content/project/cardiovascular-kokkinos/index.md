@@ -9,7 +9,7 @@ tags:
 - Book
 categories:
 - Portfolio
-date: 2025-02-03T11:31:16-05:00
+date: 2023-01-18
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://onlinelibrary.wiley.com/doi/book/10.1002/9781119833475"

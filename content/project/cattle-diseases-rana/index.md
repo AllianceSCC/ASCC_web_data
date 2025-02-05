@@ -2,14 +2,14 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Periparturient Diseases of Cattle"
-summary: "Tanmoy Rana | ISBN: 978-1-394-20397-0 | December 2024 | Wiley-Blackwell | 480 pages"
+summary: "Editor: Tanmoy Rana | ISBN: 978-1-394-20397-0 | December 2024 | Wiley-Blackwell | 480 pages"
 authors: 
 - admin
 tags: 
 - Book
 categories:
 - Portfolio
-date: 2025-02-03T11:32:14-05:00
+date: 2024-02-15
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.wiley.com/en-us/Periparturient+Diseases+of+Cattle-p-9781394203970"

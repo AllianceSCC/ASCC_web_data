@@ -1,7 +1,7 @@
 ---
 title: "What is Professional Development: A Three-Part Framework"
 summary: "Here is a suggested framework that divides professional development in higher education into three broad areas of focus: the basics of professionalism, improving current weaknesses, and planning for the future."
-date: []
+date: 2021-03-29
 tags:
 - Blog
 - Career

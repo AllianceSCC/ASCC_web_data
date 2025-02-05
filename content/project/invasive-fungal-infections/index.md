@@ -1,7 +1,7 @@
 ---
 title: "Invasive Fungal Infections: A Creeping Public Health Threat"
 summary: Invasive fungal infections are collectively responsible for killing up to 1.5 million people each year, making this infection category one of the most deadly among communicable diseases, along with lower respiratory infections, tuberculosis and diarrheal diseases.
-date: []
+date: 2018-08-24
 tags:
 - Blog
 - SciComm

@@ -1,18 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Principles and Practices of Canine and Feline Clinical Parasitic Diseases"
-summary: "Editor: Tanmoy Rana | ISBN: 978-1-394-15824-9 | January 2024 | Wiley-Blackwell | 304 pages"
+title: "The Art of Problem Solving in Organic Chemistry"
+summary: "Miguel E. Alonso-Amelot | ISBN: 978-1-119-90066-5 | 3rd Edition | September 2023 | Wiley | 432 pages"
 authors: 
 - admin
 tags: 
 - Book
 categories:
 - Portfolio
-date: 2023-11-08
+
+date: 2023-05-06
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.wiley.com/en-au/Principles+and+Practices+of+Canine+and+Feline+Clinical+Parasitic+Diseases-p-9781394158249"
+external_link: "https://www.wiley.com/en-us/The+Art+of+Problem+Solving+in+Organic+Chemistry%2C+3rd+Edition-p-9781119900665"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

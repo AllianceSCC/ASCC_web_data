@@ -1,7 +1,7 @@
 ---
 title: "From Poisoning to Pharmacy: A Tale of Two Ergots"
 summary: Ergotism is a form of poisoning from ingesting grains infected by Claviceps purpurea. Learn how these infected grains have both healed and killed throughout history.
-date: []
+date: 2018-11-02
 tags:
 - Blog
 - SciComm

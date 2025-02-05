@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Kuby Immunology"
-summary: "8th edition | 2023 | MacMillan Learning"
+title: "Kuby Immunology with Covid-19 & Digital Update"
+summary: "Sharon Stranford, Judy Owen, Jenni Punt, and Patricia Jones | 8th Edition | 2023 | MacMillan Learning"
 authors: 
 - admin
 tags: 
 - Book
 categories:
 - Portfolio
-date: 2025-02-03T11:33:27-05:00
+date: 2022-08-15
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://store.macmillanlearning.com/us/product/Kuby-Immunology-Covid-19--Digital-Update/p/1319495281"
